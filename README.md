@@ -6,7 +6,7 @@ Each folder consists of training (400 instances, train.jsonl) and validation (10
 
 Bear in mind that each dialect is related primarily to the corresponding standard language, but that standard languages are very much related as well.
 
-- copa-sl - Slovenian language
+- [copa-sl](copa-sl/) - Slovenian language
 - copa-sl-cer - The Cerkno dialect of the Slovenian language
 - copa-hr - Croatian language
 - copa-sr - Serbian language
