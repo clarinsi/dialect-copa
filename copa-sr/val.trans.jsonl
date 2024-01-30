@@ -1,0 +1,100 @@
+{"premise": "Čovek je otvorio slavinu.", "choice1": "WC šolja se napunila vodom.", "choice2": "Voda je tekla iz slavine.", "question": "effect", "label": 1, "idx": 0, "changed": false}
+{"premise": "Devojčica je pronašla bubu u žitaricama.", "choice1": "Sipala je mleko u činiju.", "choice2": "Izgubila je apetit.", "question": "effect", "label": 1, "idx": 1, "changed": false}
+{"premise": "Žena se penzionisala.", "choice1": "Primila je penziju.", "choice2": "Otplatila je kredit.", "question": "effect", "label": 0, "idx": 2, "changed": false}
+{"premise": "Želela sam da uštedim struju.", "choice1": "Izbrisala sam pod u praznoj sobi.", "choice2": "Isključila sam svetlo u praznoj sobi.", "question": "effect", "label": 1, "idx": 3, "changed": false}
+{"premise": "Meso pljeskavice je postalo smeđe.", "choice1": "Kuvar ju je zamrznuo.", "choice2": "Kuvar ju je ispekao.", "question": "cause", "label": 1, "idx": 4, "changed": false}
+{"premise": "Sumnjao sam u predlog prodavca.", "choice1": "Odbio sam njegovu ponudu.", "choice2": "Ubedio me je da kupim proizvod.", "question": "effect", "label": 0, "idx": 5, "changed": false}
+{"premise": "Odlučio sam da ostanem kod kuće tokom noći.", "choice1": "Vremenska prognoza je najavila nevreme.", "choice2": "Prijatelji su me ubeđivali da izađem.", "question": "cause", "label": 0, "idx": 6, "changed": false}
+{"premise": "Oči su mi se zacrvenele i natekle.", "choice1": "Jecao sam.", "choice2": "Smejao sam se.", "question": "cause", "label": 0, "idx": 7, "changed": false}
+{"premise": "Plamen sveće se ugasio.", "choice1": "Dunula sam u fitilj.", "choice2": "Stavila sam šibicu na fitilj.", "question": "cause", "label": 0, "idx": 8, "changed": false}
+{"premise": "Čovek je puno pio na zabavi.", "choice1": "Sutradan ga je bolela glava.", "choice2": "Sutradan mu je curio nos.", "question": "effect", "label": 0, "idx": 9, "changed": false}
+{"premise": "Kugla je oborila čunjeve na kuglanju.", "choice1": "Čovek je bacio kuglu niz stazu.", "choice2": "Čovek je ispustio kuglu na svoju nogu.", "question": "cause", "label": 0, "idx": 10, "changed": false}
+{"premise": "Zajednica je saznala da čovek umro.", "choice1": "Porodica ga je sahranila na groblju.", "choice2": "Njegova čitulja se pojavila u novinama.", "question": "cause", "label": 1, "idx": 11, "changed": false}
+{"premise": "Pao je sistem na mom računaru.", "choice1": "Instalirao sam nove zvučnike.", "choice2": "Izgubio sam sve podatke.", "question": "effect", "label": 1, "idx": 12, "changed": false}
+{"premise": "Žena je dala otkaz na poslu.", "choice1": "Želela je da zauzme izvršni položaj u firmi.", "choice2": "Smatrala je da se njeni nadređeni ne ponašaju etički.", "question": "cause", "label": 1, "idx": 13, "changed": false}
+{"premise": "Igrač je uhvatio loptu.", "choice1": "Saigrač mu je dobacio.", "choice2": "Protivnik je pokušao da je presretne.", "question": "cause", "label": 0, "idx": 14, "changed": false}
+{"premise": "Sudija je udario čekićem.", "choice1": "U sudnici je nastala galama.", "choice2": "Porota je objavila presudu.", "question": "cause", "label": 0, "idx": 15, "changed": false}
+{"premise": "Žena je oterala decu sa svog imanja.", "choice1": "Deca su šutnula loptu u njeno dvorište.", "choice2": "Deca su joj gazila baštu.", "question": "cause", "label": 1, "idx": 16, "changed": false}
+{"premise": "Otmičari su oslobodili taoca.", "choice1": "Dobili su novac za otkupninu.", "choice2": "Pobegli su iz zatvora.", "question": "cause", "label": 0, "idx": 17, "changed": false}
+{"premise": "Oči kuvara su zasuzile.", "choice1": "Nestalo mu je crnog luka.", "choice2": "Seckao je crni luk.", "question": "cause", "label": 1, "idx": 18, "changed": false}
+{"premise": "Žena je stavila prst pod hladnu vodu.", "choice1": "Opekla je prst na tosteru.", "choice2": "Stavila je dijamantski prsten na prst.", "question": "cause", "label": 0, "idx": 19, "changed": false}
+{"premise": "Učenica je pogrešno napisala reč.", "choice1": "Učitelj je ispravio.", "choice2": "Učitelj je izbacio sa časa.", "question": "effect", "label": 0, "idx": 20, "changed": false}
+{"premise": "Smirila sam se nakon napada besa.", "choice1": "Srce mi je lupalo.", "choice2": "Disala sam duboko.", "question": "cause", "label": 1, "idx": 21, "changed": false}
+{"premise": "Stavio sam ruke pod otvorenu slavinu.", "choice1": "Sapun mi se isprao sa ruku.", "choice2": "Voda me je prsnula u lice.", "question": "effect", "label": 0, "idx": 22, "changed": false}
+{"premise": "Čovek je obukao svoje najbolje odelo.", "choice1": "Zakazao je sastanak sa važnim klijentom.", "choice2": "Žena mu je kupila novu kravatu.", "question": "cause", "label": 0, "idx": 23, "changed": false}
+{"premise": "Čovek je ženi priznao da je voli.", "choice1": "Žena ga je odbila.", "choice2": "Žena mu je zavidela.", "question": "effect", "label": 0, "idx": 24, "changed": false}
+{"premise": "Vozaču se probušila guma.", "choice1": "Vozio je preko ograničenja brzine.", "choice2": "Pregazio je ekser.", "question": "cause", "label": 1, "idx": 25, "changed": false}
+{"premise": "Bio mi je blokiran pogled na filmsko platno.", "choice1": "Par iza mene je šaputao.", "choice2": "Ispred mene je sedela visoka osoba.", "question": "cause", "label": 1, "idx": 26, "changed": false}
+{"premise": "Vozač je uključio farove automobila.", "choice1": "Čuo je grom.", "choice2": "Sunce je zašlo.", "question": "cause", "label": 1, "idx": 27, "changed": false}
+{"premise": "Devojčica nije htela da pojede povrće.", "choice1": "Otac joj je rekao da popije mleko.", "choice2": "Otac joj je oduzeo desert.", "question": "effect", "label": 1, "idx": 28, "changed": false}
+{"premise": "Žena je pokrila usta rukom.", "choice1": "Izdahnula je.", "choice2": "Kihnula je.", "question": "cause", "label": 1, "idx": 29, "changed": false}
+{"premise": "Sekretarica je stavila poziv na čekanje.", "choice1": "Telefon pozivaoca je izgubio prijem.", "choice2": "Pozivalac je čekao na liniji.", "question": "effect", "label": 1, "idx": 30, "changed": false}
+{"premise": "Žena je hodala sa štakama.", "choice1": "Obrijala je noge.", "choice2": "Polomila je nogu.", "question": "cause", "label": 1, "idx": 31, "changed": false}
+{"premise": "Kašljala sam.", "choice1": "Udahnula sam dim.", "choice2": "Spustila sam glas.", "question": "cause", "label": 0, "idx": 32, "changed": false}
+{"premise": "Sat je otkucavao.", "choice1": "Bio je pun sat.", "choice2": "Činilo se da se vreme vuklo.", "question": "cause", "label": 0, "idx": 33, "changed": false}
+{"premise": "Kuvar je udario jaje o rub činije.", "choice1": "Jaje je puklo.", "choice2": "Jaje se pokvarilo.", "question": "effect", "label": 0, "idx": 34, "changed": false}
+{"premise": "Policija je pretražila automobil osumnjičenog.", "choice1": "Pokušavali su da iznude priznanje.", "choice2": "Tražili su ilegalnu drogu.", "question": "cause", "label": 1, "idx": 35, "changed": false}
+{"premise": "Par je otputovao na jug tokom zime.", "choice1": "Bili su u penziji.", "choice2": "Bili su razdvojeni.", "question": "cause", "label": 0, "idx": 36, "changed": false}
+{"premise": "Čovek je osećao obavezu da prisustvuje događaju.", "choice1": "Odbio je poziv prijatelja da ide.", "choice2": "Obećao je prijatelju da će ići.", "question": "cause", "label": 1, "idx": 37, "changed": false}
+{"premise": "Mladu je uhvatila trema pred svadbu.", "choice1": "Gosti su doneli poklone na svadbu.", "choice2": "Otkazala je svadbu.", "question": "effect", "label": 1, "idx": 38, "changed": false}
+{"premise": "Čovek je ostario.", "choice1": "Kosa mu je osedela.", "choice2": "Prodao je svoju imovinu.", "question": "effect", "label": 0, "idx": 39, "changed": false}
+{"premise": "Prijatelji su odlučili da podele hamburger.", "choice1": "Presekli su hamburger na pola.", "choice2": "Naručili su pomfrit uz hamburger.", "question": "effect", "label": 0, "idx": 40, "changed": false}
+{"premise": "Okrenuo sam čep flašice gaziranog soka.", "choice1": "Sok je zašištao.", "choice2": "Sok je iscurio.", "question": "effect", "label": 0, "idx": 41, "changed": false}
+{"premise": "Dvoje studenata je došlo pod lupu profesora.", "choice1": "Oba studenta su dobila odlične ocene.", "choice2": "Imali su identične odgovore u zadatku.", "question": "cause", "label": 1, "idx": 42, "changed": false}
+{"premise": "Đak je žurio da stigne u školu na vreme.", "choice1": "Ostavio je domaći zadatak kod kuće.", "choice2": "Poneo je ručak u školu.", "question": "effect", "label": 0, "idx": 43, "changed": false}
+{"premise": "Novinar je napisao biografiju o životu humanitarca.", "choice1": "Novinaru je bio teško da intervjuiše humanitarca.", "choice2": "Novinara je zaintrigirao život humanitarca.", "question": "cause", "label": 1, "idx": 44, "changed": false}
+{"premise": "Čovek se usprotivio crkvenim vlastima.", "choice1": "Donirao je novac crkvi.", "choice2": "Bio je izopšten iz crkve.", "question": "effect", "label": 1, "idx": 45, "changed": false}
+{"premise": "Ženi je pala kosa na lice.", "choice1": "Skupila je kosu šnalom.", "choice2": "Nasapunala je kosu šamponom.", "question": "effect", "label": 0, "idx": 46, "changed": false}
+{"premise": "Prsten mi je zapeo na prstu.", "choice1": "Otekao mi je prst.", "choice2": "Polomio sam nokat.", "question": "cause", "label": 0, "idx": 47, "changed": false}
+{"premise": "Povukla sam gumicu.", "choice1": "Odletela je preko sobe.", "choice2": "Razvukla se.", "question": "effect", "label": 1, "idx": 48, "changed": false}
+{"premise": "Utisnuo sam ruku u vlažni cement.", "choice1": "Otisak moje ruke se osušio u cementu.", "choice2": "Pojavile su se pukotine u cementu.", "question": "effect", "label": 0, "idx": 49, "changed": false}
+{"premise": "Na koži mi se pojavio osip.", "choice1": "Očešala sam se o otrovni bršljan u dvorištu.", "choice2": "Iskorenila sam otrovni bršljan iz dvorišta.", "question": "cause", "label": 0, "idx": 50, "changed": false}
+{"premise": "Istekla mi je pretplata na časopis.", "choice1": "Bacio sam novi broj.", "choice2": "Prestao sam da dobijam nove brojeve.", "question": "effect", "label": 1, "idx": 51, "changed": false}
+{"premise": "Detektiv je otkrio anomaliju u slučaju.", "choice1": "Zaokružio je svoju teoriju.", "choice2": "Odbacio je svoju teoriju.", "question": "effect", "label": 1, "idx": 52, "changed": false}
+{"premise": "Dečak je imao napad besa.", "choice1": "Brat mu je oduzeo igračke.", "choice2": "Delio je svoje igračke sa bratom.", "question": "cause", "label": 0, "idx": 53, "changed": false}
+{"premise": "Dete je naučilo da čita.", "choice1": "Počelo je da pohađa školu.", "choice2": "Preskočilo je razred u školi.", "question": "cause", "label": 0, "idx": 54, "changed": false}
+{"premise": "Dečak je preskočio večeru.", "choice1": "Majka mu je skuvala omiljeno jelo.", "choice2": "Pojeo je obilan ručak.", "question": "cause", "label": 1, "idx": 55, "changed": false}
+{"premise": "Žena je obasipala prijateljicu komplimentima.", "choice1": "Htela je da pita prijateljicu za uslugu.", "choice2": "Iznerviralo je kukanje prijateljice.", "question": "cause", "label": 0, "idx": 56, "changed": false}
+{"premise": "Nestao mi je ključ iz džepa pantalona.", "choice1": "Džep je imao rupu.", "choice2": "Pantalone su bile nove.", "question": "cause", "label": 0, "idx": 57, "changed": false}
+{"premise": "Čovek se onesvestio.", "choice1": "Zadremao je.", "choice2": "Istrčao je maraton.", "question": "cause", "label": 1, "idx": 58, "changed": false}
+{"premise": "Čovek je izgubio na takmičenju.", "choice1": "Takmičenje je bilo namešteno.", "choice2": "Zastrašivao je druge takmičare.", "question": "cause", "label": 0, "idx": 59, "changed": false}
+{"premise": "Majka je pozvala hitnu pomoć.", "choice1": "Njen sin je izgubio mačku.", "choice2": "Njen sin je ispao iz kreveta.", "question": "cause", "label": 1, "idx": 60, "changed": false}
+{"premise": "Vozač je naglo zakočio.", "choice1": "Na putu se pojavio jelen.", "choice2": "Isključio se radio u automobilu.", "question": "cause", "label": 0, "idx": 61, "changed": false}
+{"premise": "Brava se otvorila.", "choice1": "Okrenula sam ključ u bravi.", "choice2": "Napravila sam duplikat ključa.", "question": "cause", "label": 0, "idx": 62, "changed": false}
+{"premise": "Stavio sam gumene rukavice.", "choice1": "Spremao sam se da operem ruke.", "choice2": "Spremao sam se da oribam kupatilo.", "question": "cause", "label": 1, "idx": 63, "changed": false}
+{"premise": "Životinjske vrste su postale ugrožene.", "choice1": "Njihovo stanište je uništeno.", "choice2": "Njihovi predatori su izumrli.", "question": "cause", "label": 0, "idx": 64, "changed": false}
+{"premise": "Muškarac je primetio da žena izgleda drugačije.", "choice1": "Žena se ošišala.", "choice2": "Žena je nosila narukvicu.", "question": "cause", "label": 0, "idx": 65, "changed": false}
+{"premise": "Učenica je zaboravila da uradi domaći zadatak.", "choice1": "Izmislila je izgovor za nastavnika.", "choice2": "Nastavnik ju je prebacio u viši razred.", "question": "effect", "label": 0, "idx": 66, "changed": false}
+{"premise": "Pas je lajao.", "choice1": "Mačka se izležavala na kauču.", "choice2": "Čulo se kucanje na vratima.", "question": "cause", "label": 1, "idx": 67, "changed": false}
+{"premise": "Najavljeni su planovi za pretvaranje lokalnog parka u tržni centar.", "choice1": "Ekolozi su pokrenuli peticiju.", "choice2": "Ekolozi su snimili dokumentarni film.", "question": "effect", "label": 0, "idx": 68, "changed": false}
+{"premise": "Par se obradovao što su se sreli.", "choice1": "Poljubili su se.", "choice2": "Odmarali su se.", "question": "effect", "label": 0, "idx": 69, "changed": false}
+{"premise": "Žena je zamolila muškarca da ode.", "choice1": "Uvredio ju je.", "choice2": "Zahvalio joj se.", "question": "cause", "label": 0, "idx": 70, "changed": false}
+{"premise": "Grana drveta je pala u reku.", "choice1": "Grana je išla nizvodno.", "choice2": "Rečna struja se pojačala.", "question": "effect", "label": 0, "idx": 71, "changed": false}
+{"premise": "Nastavnik je dao učenicima domaći zadatak.", "choice1": "Učenici su razmenili beleške.", "choice2": "Učenici su negodovali.", "question": "effect", "label": 1, "idx": 72, "changed": false}
+{"premise": "Promenilo se godišnje doba iz leta u jesen.", "choice1": "Ljudi su se evakuisali iz domova.", "choice2": "Lišće je opalo sa drveća.", "question": "effect", "label": 1, "idx": 73, "changed": false}
+{"premise": "Političar je osuđen za prevaru.", "choice1": "Pokrenuo je kampanju za reizbor.", "choice2": "Smenjen je sa funkcije.", "question": "effect", "label": 1, "idx": 74, "changed": false}
+{"premise": "Gurnuo sam kolica.", "choice1": "Ispale su stvari iz kolica.", "choice2": "Točkovi na kolicima su se okrenuli unapred.", "question": "effect", "label": 1, "idx": 75, "changed": false}
+{"premise": "Lobista je ubedio parlament da podrži predlog zakona.", "choice1": "Predsednik je stavio veto na predlog zakona.", "choice2": "Parlament je usvojio predlog zakona.", "question": "effect", "label": 1, "idx": 76, "changed": false}
+{"premise": "Ormar mi je bio u neredu.", "choice1": "Sredila sam ga.", "choice2": "Ukrasila sam ga.", "question": "effect", "label": 0, "idx": 77, "changed": false}
+{"premise": "Ostao sam budan do kasno.", "choice1": "Imao sam živopisne snove te noći.", "choice2": "Bio sam umoran ujutru.", "question": "effect", "label": 1, "idx": 78, "changed": false}
+{"premise": "Čovekov džep je zveckao dok je hodao.", "choice1": "Džep mu je bio pun novčića.", "choice2": "Zašio je rupu na džepu.", "question": "cause", "label": 0, "idx": 79, "changed": false}
+{"premise": "Svi u odeljenju su se okrenuli i pogledali u učenika.", "choice1": "Učeniku je zazvonio telefon.", "choice2": "Student je hvatao beleške.", "question": "cause", "label": 0, "idx": 80, "changed": false}
+{"premise": "Konj se ritnuo.", "choice1": "Muva je ujela konja.", "choice2": "Jahač je pomilovao konja.", "question": "cause", "label": 0, "idx": 81, "changed": false}
+{"premise": "Kradljivci nakita su uhapšeni.", "choice1": "Ukradeni nakit je vraćen vlasnicima.", "choice2": "Izračunata je cena ukradenog nakita.", "question": "effect", "label": 0, "idx": 82, "changed": false}
+{"premise": "Izbilo je političko nasilje u državi.", "choice1": "Mnogi građani su se preselili u glavni grad.", "choice2": "Mnogi građani su izbegli u druge oblasti.", "question": "effect", "label": 1, "idx": 83, "changed": false}
+{"premise": "Žena je uhapšena.", "choice1": "Prijavila se na rehabilitaciju.", "choice2": "Izvršila je napad.", "question": "cause", "label": 1, "idx": 84, "changed": false}
+{"premise": "Žena je čitala novine.", "choice1": "Saznala je rezultate izbora.", "choice2": "Glasala je na izborima.", "question": "effect", "label": 0, "idx": 85, "changed": false}
+{"premise": "Bolesno dete je kašljalo na druga.", "choice1": "Njegov drug se razboleo.", "choice2": "Njegov drug je kihnuo.", "question": "effect", "label": 0, "idx": 86, "changed": false}
+{"premise": "Par se verio.", "choice1": "Planirali su venčanje.", "choice2": "Razdvojili su na neko vreme.", "question": "effect", "label": 0, "idx": 87, "changed": false}
+{"premise": "Žena se obratila agentu za nekretnine.", "choice1": "Žena je planirala da kupi stan.", "choice2": "Žena je morala da očisti kuću.", "question": "cause", "label": 0, "idx": 88, "changed": false}
+{"premise": "Čovek je dobio premiju na lutriji.", "choice1": "Postao je bogat.", "choice2": "Dugovao je novac.", "question": "effect", "label": 0, "idx": 89, "changed": false}
+{"premise": "Upalio sam sveću.", "choice1": "Vosak je curio sa sveće.", "choice2": "Vosak na sveći se stvrdnuo.", "question": "effect", "label": 0, "idx": 90, "changed": false}
+{"premise": "Proveo sam dan na bazenu.", "choice1": "Uganuo sam zglob.", "choice2": "Lice mi je izgorelo na suncu.", "question": "effect", "label": 1, "idx": 91, "changed": false}
+{"premise": "Čovek je dobio kaznu za parkiranje.", "choice1": "Parkirao je paralelno na ulici.", "choice2": "Isteklo mu je vreme za parkiranje.", "question": "cause", "label": 1, "idx": 92, "changed": false}
+{"premise": "Žena je postala poznata.", "choice1": "Fotografi su je pratili.", "choice2": "Porodica ju je izbegavala.", "question": "effect", "label": 0, "idx": 93, "changed": false}
+{"premise": "Devojka je želela da nosi minđuše.", "choice1": "Probušila je uši.", "choice2": "Istetovirala se.", "question": "effect", "label": 0, "idx": 94, "changed": false}
+{"premise": "Uši su mi zvonile.", "choice1": "Bila sam u muzeju.", "choice2": "Bila sam na koncertu.", "question": "cause", "label": 1, "idx": 95, "changed": false}
+{"premise": "Sredila sam kuću.", "choice1": "Bila sam zatrpana poslom.", "choice2": "Očekivala sam društvo.", "question": "cause", "label": 1, "idx": 96, "changed": false}
+{"premise": "Avio-prevoznik mi je zagubio prtljag.", "choice1": "Ponudili su mi kompenzaciju.", "choice2": "Otkazali su mi let.", "question": "effect", "label": 0, "idx": 97, "changed": false}
+{"premise": "Popravka računara je bila skupa.", "choice1": "Popravio sam ga.", "choice2": "Kupio sam novi.", "question": "effect", "label": 1, "idx": 98, "changed": false}
+{"premise": "Žena je bila neraspoložena.", "choice1": "Upustila se u prazan razgovor sa prijateljicom.", "choice2": "Rekla je prijateljici da je ostavi na miru.", "question": "effect", "label": 1, "idx": 99, "changed": false}

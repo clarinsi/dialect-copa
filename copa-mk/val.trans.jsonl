@@ -1,0 +1,100 @@
+{"premise": "Čovekot ja otvori slavinata.", "choice1": "Toaletot se napolni so voda.", "choice2": "Isteče voda od slavinata.", "question": "effect", "label": 1, "idx": 0, "changed": false}
+{"premise": "Devojkata pronajde bubačka vo nejzinite žitarki.", "choice1": "Taa isturi mleko vo sadot.", "choice2": "Izgubi apetit.", "question": "effect", "label": 1, "idx": 1, "changed": false}
+{"premise": "Ženata se penzionira.", "choice1": "Primi penzija.", "choice2": "Ja otplati hipotekata.", "question": "effect", "label": 0, "idx": 2, "changed": false}
+{"premise": "Sakav da zaštedam energija.", "choice1": "Go brišev podot vo praznata prostorija.", "choice2": "Go isklučiv svetloto vo praznata prostorija.", "question": "effect", "label": 1, "idx": 3, "changed": false}
+{"premise": "Pleskavicata zarumeni.", "choice1": "Gotvačot ja zamrzna.", "choice2": "Gotvačot ja ispeče.", "question": "cause", "label": 1, "idx": 4, "changed": false}
+{"premise": "Ne veruvav vo prezentacijata na prodavačot.", "choice1": "Ja odbiv negovata ponuda.", "choice2": "Me ubedi da go kupam proizvodot.", "question": "effect", "label": 0, "idx": 5, "changed": false}
+{"premise": "Odlučiv večerta da ostanam doma.", "choice1": "Na prognozata najavija nevreme.", "choice2": "Prijatelite me ubeduvaa da izlezam.", "question": "cause", "label": 0, "idx": 6, "changed": false}
+{"premise": "Očite mi pocrvenija i natekoa.", "choice1": "Plačev.", "choice2": "Se smeev.", "question": "cause", "label": 0, "idx": 7, "changed": false}
+{"premise": "Plamenot od sveḱata se izgasna.", "choice1": "Duvnav vo fitiljot.", "choice2": "Staviv kibrit do fitiljot.", "question": "cause", "label": 0, "idx": 8, "changed": false}
+{"premise": "Čovekot ispi premnogu na zabavata.", "choice1": "Sledniot den go boleše glavata.", "choice2": "Sledniot den mu tečeše nosot.", "question": "effect", "label": 0, "idx": 9, "changed": false}
+{"premise": "Topkata za kuglanje gi sruši kuglite.", "choice1": "Čovekot ja frli topkata za kuglanje po stazata.", "choice2": "Topkata za kuglanje mu padna na čovekot na nogata.", "question": "cause", "label": 0, "idx": 10, "changed": false}
+{"premise": "Zaednicata dozna za smrtta na čovekot.", "choice1": "Negovoto semejstvo go zakopa na grobištata.", "choice2": "Negoviot nekrolog se pojavi vo vesnicite.", "question": "cause", "label": 1, "idx": 11, "changed": false}
+{"premise": "Kompjuterot mi se rasipa.", "choice1": "Instalirav novi zvučnici.", "choice2": "Gi izgubiv site podatoci.", "question": "effect", "label": 1, "idx": 12, "changed": false}
+{"premise": "Ženata dade ostavka na rabota.", "choice1": "Taa se stremeše da ima izvršna pozicija vo firmata.", "choice2": "Veruvaše deka nejzinite pretpostaveni se odnesuvaat neetički.", "question": "cause", "label": 1, "idx": 13, "changed": false}
+{"premise": "Natprevaruvačkata ja fati topkata.", "choice1": "Nejziniot soigrač ѝ ja dofrli.", "choice2": "Nejziniot protivnik proba da ja presretne.", "question": "cause", "label": 0, "idx": 14, "changed": false}
+{"premise": "Sudijata udri so čekanot.", "choice1": "Izbi metež vo sudnicata.", "choice2": "Porotata ja objavi presudata.", "question": "cause", "label": 0, "idx": 15, "changed": false}
+{"premise": "Ženata gi izbrkala decata od svojot imot.", "choice1": "Decata frlile topka vo nejziniot dvor.", "choice2": "Decata gazele po nejzinata gradina.", "question": "cause", "label": 1, "idx": 16, "changed": false}
+{"premise": "Kidnaperite go oslobodile založnikot.", "choice1": "Prifatile pari za otkup.", "choice2": "Pobegnale od zatvor.", "question": "cause", "label": 0, "idx": 17, "changed": false}
+{"premise": "Na gotvačot mu prosolzija očite.", "choice1": "Mu snema kromid.", "choice2": "Sečeše kromid.", "question": "cause", "label": 1, "idx": 18, "changed": false}
+{"premise": "Ženata go stavila prstot pod ladna voda.", "choice1": "Go izgorela prstot na tosterot.", "choice2": "Na prstot stavila dijamantski prsten.", "question": "cause", "label": 0, "idx": 19, "changed": false}
+{"premise": "Učeničkata pogrešno go napiša zborot.", "choice1": "Učitelot ja ispravi.", "choice2": "Učitelot ja nabrka.", "question": "effect", "label": 0, "idx": 20, "changed": false}
+{"premise": "Se smiriv od napadot na gnev.", "choice1": "Srceto mi čukaše.", "choice2": "Dišev dlaboko.", "question": "cause", "label": 1, "idx": 21, "changed": false}
+{"premise": "Gi staviv racete pod slavinata.", "choice1": "Sapunot mi gi isplakna racete.", "choice2": "Vodata me isprska po liceto.", "question": "effect", "label": 0, "idx": 22, "changed": false}
+{"premise": "Čovekot go obleče svojot omilen kostum.", "choice1": "Zakaža sostanok so važen klient.", "choice2": "Ženata mu kupi nova kravata.", "question": "cause", "label": 0, "idx": 23, "changed": false}
+{"premise": "Čovekot ѝ prizna na ženata deka ja saka.", "choice1": "Ženata go odbi.", "choice2": "Ženata mu zaviduvaše.", "question": "effect", "label": 0, "idx": 24, "changed": false}
+{"premise": "Na vozačot mu se dupna guma.", "choice1": "Ja nadmina dozvolenata brzina.", "choice2": "Pregazi šajka.", "question": "cause", "label": 1, "idx": 25, "changed": false}
+{"premise": "Pogledot na filmskoto platno mi beše blokiran.", "choice1": "Parot zad mene šepoteše.", "choice2": "Visoka ličnost sedeše pred mene.", "question": "cause", "label": 1, "idx": 26, "changed": false}
+{"premise": "Vozačot gi vkluči prednite svetla na avtomobilot.", "choice1": "Slušna grom.", "choice2": "Sonceto zajde.", "question": "cause", "label": 1, "idx": 27, "changed": false}
+{"premise": "Devojčeto odbi da jade zelenčuk.", "choice1": "Tatko ѝ i reče da go ispie mlekoto.", "choice2": "Tatko ѝ go odzel nejziniot desert.", "question": "effect", "label": 1, "idx": 28, "changed": false}
+{"premise": "Ženata ja pokrila ustata so nejzinata raka.", "choice1": "Izdiša.", "choice2": "Kivna.", "question": "cause", "label": 1, "idx": 29, "changed": false}
+{"premise": "Sekretarkata go stavi povikuvačot na čekanje.", "choice1": "Telefonot na povikuvačot izgubi signal.", "choice2": "Povikuvačot čekaše na linija.", "question": "effect", "label": 1, "idx": 30, "changed": false}
+{"premise": "Ženata odeše so paterici.", "choice1": "Gi izbriči nozete.", "choice2": "Ja skrši nogata.", "question": "cause", "label": 1, "idx": 31, "changed": false}
+{"premise": "Se zakašlav.", "choice1": "Vdišav čad.", "choice2": "Go namaliv glasot.", "question": "cause", "label": 0, "idx": 32, "changed": false}
+{"premise": "Časovnikot zadzvoni.", "choice1": "Beše poln čas.", "choice2": "Časot izgledaše kako da se odolgovlekuva.", "question": "cause", "label": 0, "idx": 33, "changed": false}
+{"premise": "Gotvačot go udri jajceto od stranata na sadot.", "choice1": "Jajceto pukna.", "choice2": "Jajceto se rasipa.", "question": "effect", "label": 0, "idx": 34, "changed": false}
+{"premise": "Policijata izvrši pretres vo avtomobilot na prekršitelot.", "choice1": "Se obiduvaa da izvlečat priznanie.", "choice2": "Baraa nelegalni drogi.", "question": "cause", "label": 1, "idx": 35, "changed": false}
+{"premise": "Parot otpatuva na jug preku zimata.", "choice1": "Bea vo penzija.", "choice2": "Bea razdeleni.", "question": "cause", "label": 0, "idx": 36, "changed": false}
+{"premise": "Čovekot se čuvstvuvaše dolžen da prisustvuva na nastanot.", "choice1": "Ja odbi pokanata na prijatelot da odi.", "choice2": "Mu vetil na prijatelot deka ḱe odi.", "question": "cause", "label": 1, "idx": 37, "changed": false}
+{"premise": "Nevestata se predomislila pred svadbata.", "choice1": "Gostite na venčavkata donesoa podaroci.", "choice2": "Ja otkaža svadbata.", "question": "effect", "label": 1, "idx": 38, "changed": false}
+{"premise": "Čovekot ostari.", "choice1": "Kosata mu pobeli.", "choice2": "Go prodade svojot imot.", "question": "effect", "label": 0, "idx": 39, "changed": false}
+{"premise": "Prijatelite odlučija da go podelat hamburgerot.", "choice1": "Go presekoa hamburgerot na pola.", "choice2": "Naračaa i pomfrit so hamburgerot.", "question": "effect", "label": 0, "idx": 40, "changed": false}
+{"premise": "Go izvrtev kapačeto od šišeto so gaziran sok.", "choice1": "Gaziraniot sok počna da peni.", "choice2": "Gaziraniot sok isteče.", "question": "effect", "label": 0, "idx": 41, "changed": false}
+{"premise": "Dvajca učenici bea pod lupa na nastavnikot.", "choice1": "Dvajcata učenici dobile odlični ocenki.", "choice2": "Nivnite odgovori na zadačata bile identični.", "question": "cause", "label": 1, "idx": 42, "changed": false}
+{"premise": "Učenikot se brzal da stigne na učilište na vreme.", "choice1": "Ja ostavil domašnata zadača doma.", "choice2": "Go donese negoviot ruček na učilište.", "question": "effect", "label": 0, "idx": 43, "changed": false}
+{"premise": "Novinar napiša biografija za životot na humanitarecot.", "choice1": "Humanitarecot beše težok za intervjuiranje.", "choice2": "Novinarot beše zaintrigiran od rabotata na humanitarecot.", "question": "cause", "label": 1, "idx": 44, "changed": false}
+{"premise": "Čovekot im prkoseše na crkovnite avtoriteti.", "choice1": "Toj doniraše pari na crkvata.", "choice2": "Toj beše isfrlen od crkvata.", "question": "effect", "label": 1, "idx": 45, "changed": false}
+{"premise": "Kosata na ženata ѝ padna na nejzinoto lice.", "choice1": "Ja sobra kosata so šnola.", "choice2": "Nanese šampon na kosata.", "question": "effect", "label": 0, "idx": 46, "changed": false}
+{"premise": "Prstenot mi se zaglavi.", "choice1": "Prstot mi nateče.", "choice2": "Go skršiv noktot.", "question": "cause", "label": 0, "idx": 47, "changed": false}
+{"premise": "Go povlekov lastikot.", "choice1": "Odleta niz sobata.", "choice2": "Se rastegna.", "question": "effect", "label": 1, "idx": 48, "changed": false}
+{"premise": "Ja pritisnav rakata vo vlažniot cement.", "choice1": "Otpečatok od mojata raka se isuši vo cementot.", "choice2": "Vo cementot se pojavile puknatini.", "question": "effect", "label": 0, "idx": 49, "changed": false}
+{"premise": "Mi se pojavi osip na kožata.", "choice1": "Doprev otroven bršlen vo mojot dvor. ", "choice2": "Se oslobodiv od otrovniot bršlen vo mojot dvor.", "question": "cause", "label": 0, "idx": 50, "changed": false}
+{"premise": "Mojata pretplata na spisanieto isteče.", "choice1": "Go otfrliv novoto izdanie.", "choice2": "Prestanav da primam novi izdanija. ", "question": "effect", "label": 1, "idx": 51, "changed": false}
+{"premise": "Detektivot otkri nepravilnosti vo slučajot.", "choice1": "Toj ja završuvaše svojata teorija.", "choice2": "Ja otfrli svojata teorija.", "question": "effect", "label": 1, "idx": 52, "changed": false}
+{"premise": "Momčeto imaše napad na bes.", "choice1": "Brat mu mu gi zede igračkite.", "choice2": "Gi spodeli igračkite so svojot brat.", "question": "cause", "label": 0, "idx": 53, "changed": false}
+{"premise": "Deteto naučilo da čita.", "choice1": "Započna vo odi vo učilište.", "choice2": "Preskokna oddelenie vo učilište.", "question": "cause", "label": 0, "idx": 54, "changed": false}
+{"premise": "Momčeto ja preskokna večerata.", "choice1": "Negovata majka mu go zgotvila omilenoto jadenje.", "choice2": "Izede premnogu za ruček.", "question": "cause", "label": 1, "idx": 55, "changed": false}
+{"premise": "Ženata ja osipuvaše svojata prijatelka so komlimenti.", "choice1": "Sakaše da pobara usluga od svojata prijatelka.", "choice2": "Beše iritirana od žalenjeto na nejzinata prijatelka.", "question": "cause", "label": 0, "idx": 56, "changed": false}
+{"premise": "Mi go snema klučot od džepovite na pantalonite.", "choice1": "Džebot imaše dupka.", "choice2": "Pantalonite bea novi.", "question": "cause", "label": 0, "idx": 57, "changed": false}
+{"premise": "Čovekot se onesvesti.", "choice1": "Zadrema.", "choice2": "Istrča maraton.", "question": "cause", "label": 1, "idx": 58, "changed": false}
+{"premise": "Čovekot izgubi vo natprevarot.", "choice1": "Natprevaruvanjeto beše sabotirano.", "choice2": "Gi zaplaši drugite natprevaruvači.", "question": "cause", "label": 0, "idx": 59, "changed": false}
+{"premise": "Majkata povika brza pomoš.", "choice1": "Nejziniot sin ja izgubi mačkata.", "choice2": "Nejziniot sin padna od krevetot.", "question": "cause", "label": 1, "idx": 60, "changed": false}
+{"premise": "Vozačot naglo zakoči. ", "choice1": "Elen se pojavi na ulicata.", "choice2": "Radioto vo avtomobilot se iskluči.", "question": "cause", "label": 0, "idx": 61, "changed": false}
+{"premise": "Bravata se otvori.", "choice1": "Go zavrtiv klučot na bravata.", "choice2": "Napraviv duplikat od klučot.", "question": "cause", "label": 0, "idx": 62, "changed": false}
+{"premise": "Staviv gumeni rakavici.", "choice1": "Se spremav da si gi izmijam racete. ", "choice2": "Se spremav da go isčistam kupatiloto.", "question": "cause", "label": 1, "idx": 63, "changed": false}
+{"premise": "Životinski vidovi stanaa zagrozeni. ", "choice1": "Nivnoto živealište e uništeno. ", "choice2": "Nivnite predatori isčeznaa.", "question": "cause", "label": 0, "idx": 64, "changed": false}
+{"premise": "Čovekot zabeležal deka ženata izgleda poinaku.", "choice1": "Ženata ja skrati kosata.", "choice2": "Ženata nosela narakvica.", "question": "cause", "label": 0, "idx": 65, "changed": false}
+{"premise": "Učeničkata zaboravi da ja napiše domašnata zadača.", "choice1": "Izmisli izgovor što ḱe mu go kaže na učitelot.", "choice2": "Učitelot ja prefrli vo povisoko oddelenie.", "question": "effect", "label": 0, "idx": 66, "changed": false}
+{"premise": "Kučeto laeše.", "choice1": "Mačkata se odmaraše na kaučot.", "choice2": "Se slušna čukanje na vratata.", "question": "cause", "label": 1, "idx": 67, "changed": false}
+{"premise": "Najaveni se planovi za zamena na parkot so trgovski centar. ", "choice1": "Ekološkite aktivisti pokrenaa peticija.", "choice2": "Ekološkite aktivisti snimaa dokumentarec.", "question": "effect", "label": 0, "idx": 68, "changed": false}
+{"premise": "Dvojkata beše sreḱna što se vidoa eden so drug.", "choice1": "Se baknaa.", "choice2": "Se odmorija.", "question": "effect", "label": 0, "idx": 69, "changed": false}
+{"premise": "Ženata baraše mažot da zamine.", "choice1": "Ja navredi.", "choice2": "I se zablagodari.", "question": "cause", "label": 0, "idx": 70, "changed": false}
+{"premise": "Granka od drvoto padna vo rekata.", "choice1": "Grankata se dvižeše nizvodno.", "choice2": "Rečnata struja stana posilna.", "question": "effect", "label": 0, "idx": 71, "changed": false}
+{"premise": "Učitelot im dade zadača na učenicite.", "choice1": "Učenicite si praḱaa beleški.", "choice2": "Učenicite stenkaa.", "question": "effect", "label": 1, "idx": 72, "changed": false}
+{"premise": "Godišnoto vreme se smeni od leto vo esen.", "choice1": "Luǵeto gi napuštija svoite domovi.", "choice2": "Lisjata paǵaa od drvjata.", "question": "effect", "label": 1, "idx": 73, "changed": false}
+{"premise": "Političar e osuden zaradi izmama.", "choice1": "Pokrena kampanja za nov mandat.", "choice2": "Toj beše smenet od funkcijata.", "question": "effect", "label": 1, "idx": 74, "changed": false}
+{"premise": "Go turnav vagonot.", "choice1": "Predmetite ispadnaa od vagonot.", "choice2": "Trkalata na vagonot se vrtea napred.", "question": "effect", "label": 1, "idx": 75, "changed": false}
+{"premise": "Lobistot go ubedi zakonodavniot dom da go poddrži predlog-zakonot.", "choice1": "Pretsedatelot stavi veto na predlog-zakonot.", "choice2": "Zakonodavcite go usvoija predlog-zakonot.", "question": "effect", "label": 1, "idx": 76, "changed": false}
+{"premise": "Plakarot mi beše neureden.", "choice1": "Go organizirav.", "choice2": "Go dekorirav.", "question": "effect", "label": 0, "idx": 77, "changed": false}
+{"premise": "Ostanav buden do docna.", "choice1": "Imav živopisni soništa taa noḱ.", "choice2": "Utroto bev umoren.", "question": "effect", "label": 1, "idx": 78, "changed": false}
+{"premise": "Džebot na čovekot tropkaše dodeka odeše.", "choice1": "Džebot mu beše poln so moneti.", "choice2": "Ja zaši dupkata vo džebot. ", "question": "cause", "label": 0, "idx": 79, "changed": false}
+{"premise": "Site od oddelenieto se svrtea i se zagledaa vo učenikot.", "choice1": "Na učenikot mu zadzvoni telefonot.", "choice2": "Učenikot faḱal beleški.", "question": "cause", "label": 0, "idx": 80, "changed": false}
+{"premise": "Konjot zdive.", "choice1": "Muva go kasna konjot.", "choice2": "Javačot go pogali konjot.", "question": "cause", "label": 0, "idx": 81, "changed": false}
+{"premise": "Uapseni se kradcite na nakit.", "choice1": "Ukradeniot nakit e vraten na sopstvenicite.", "choice2": "Presmetana e cenata na ukradeniot nakit.", "question": "effect", "label": 0, "idx": 82, "changed": false}
+{"premise": "Vo državata izbi političko nasilstvo.", "choice1": "Mnogu od graǵanite se preselija vo glavniot grad.", "choice2": "Mnogu graǵani najdoa zasolnište na drugi teritorii.", "question": "effect", "label": 1, "idx": 83, "changed": false}
+{"premise": "Ženata beše uapsena.", "choice1": "Se prijavila na rehabilitacija.", "choice2": "Taa izvršila napad.", "question": "cause", "label": 1, "idx": 84, "changed": false}
+{"premise": "Ženata čitaše vesnici.", "choice1": "Dozna za rezultatite na izborite.", "choice2": "Glasaše na izborite.", "question": "effect", "label": 0, "idx": 85, "changed": false}
+{"premise": "Bolnoto momče kašlaše kon negoviot prijatel.", "choice1": "Negoviot prijatel se razbole.", "choice2": "Negoviot prijatel kivna.", "question": "effect", "label": 0, "idx": 86, "changed": false}
+{"premise": "Parot se veri.", "choice1": "Isplaniraa venčavka.", "choice2": "Se razdelija na nekoe vreme.", "question": "effect", "label": 0, "idx": 87, "changed": false}
+{"premise": "Ženata stapi vo kontakt so agentkata za nedvižnosti.", "choice1": "Ženata planiraše da kupi stan.", "choice2": "Ženata trebaše da ja isčisti svojata kuḱa.", "question": "cause", "label": 0, "idx": 88, "changed": false}
+{"premise": "Čovekot dobi na loto.", "choice1": "Se zbogati.", "choice2": "Dolžel pari.", "question": "effect", "label": 0, "idx": 89, "changed": false}
+{"premise": "Zapaliv sveḱa.", "choice1": "Vosokot kapeše od sveḱata.", "choice2": "Vosokot na sveḱata se zdrvi.", "question": "effect", "label": 0, "idx": 90, "changed": false}
+{"premise": "Go pominav denot na bazen.", "choice1": "Go istegnav zglobot.", "choice2": "Liceto mi izgore od sonceto.", "question": "effect", "label": 1, "idx": 91, "changed": false}
+{"premise": "Čovekot dobi kazna za parkiranje.", "choice1": "Paralelno se parkiraše na ulica.", "choice2": "Isteče vremeto na parking metarot.", "question": "cause", "label": 1, "idx": 92, "changed": false}
+{"premise": "Ženata stana poznata.", "choice1": "Fotografite ja sledea.", "choice2": "Nejzinoto semejstvo ja izbegnuvalo.", "question": "effect", "label": 0, "idx": 93, "changed": false}
+{"premise": "Devojkata sakaše da nosi obetki.", "choice1": "Si gi dupna ušite.", "choice2": "Se tetoviraše.", "question": "effect", "label": 0, "idx": 94, "changed": false}
+{"premise": "Mi dzvonea ušite.", "choice1": "Bev vo muzej.", "choice2": "Bev na koncert.", "question": "cause", "label": 1, "idx": 95, "changed": false}
+{"premise": "Ja srediv kuḱata.", "choice1": "Bev preokupiran so rabota.", "choice2": "Očekuvav društvo.", "question": "cause", "label": 1, "idx": 96, "changed": false}
+{"premise": "Avioprevoznikot mi go izgubi kuferot.", "choice1": "Mi ponudija kompenzacija.", "choice2": "Mi go otkažaa letot.", "question": "effect", "label": 0, "idx": 97, "changed": false}
+{"premise": "Popravkata na kompjuterot beše skapa.", "choice1": "Go odnesov na popravka.", "choice2": "Si kupiv nov.", "question": "effect", "label": 1, "idx": 98, "changed": false}
+{"premise": "Ženata beše neraspoložena.", "choice1": "Počna da muabeti so nejzinata prijatelka.", "choice2": "Ѝ reče na prijatelkata da ja ostavi na mira.", "question": "effect", "label": 1, "idx": 99, "changed": false}

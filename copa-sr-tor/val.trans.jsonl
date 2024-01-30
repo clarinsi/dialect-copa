@@ -1,0 +1,100 @@
+{"premise": "\u010covek odvrnuja slavinu.", "choice1": "Ve-ce se napunija sas vodu.", "choice2": "Voda isti\u010dala od slavinu.", "question": "effect", "label": 1, "idx": 0, "changed": false}
+{"premise": "Devoj\u010dica na\u0161la bubaljku me\u0111u njojne \u017eitarice.", "choice1": "Sipala mleko u \u010diniju.", "choice2": "Izgubila si apetit.", "question": "effect", "label": 1, "idx": 1, "changed": false}
+{"premise": "\u017dena oti\u0161la u penziju.", "choice1": "Primila si penziju.", "choice2": "Otplatila si hipoteku.", "question": "effect", "label": 0, "idx": 2, "changed": false}
+{"premise": "Teja sam si u\u0161param struju.", "choice1": "Pomeja sam patos u praznu sobu.", "choice2": "Ugasija sam svetlo u praznu sobu.", "question": "effect", "label": 1, "idx": 3, "changed": false}
+{"premise": "Meso od hamburger se propr\u017eilo.", "choice1": "Kuvar ga zamrznuja.", "choice2": "Kuvar ga zapekja na ro\u0161tilj.", "question": "cause", "label": 1, "idx": 4, "changed": false}
+{"premise": "Sumljaja sam u pri\u010du na prodavca.", "choice1": "Odbija sam njigovu ponudu.", "choice2": "Ubedija me kupim proizvod.", "question": "effect", "label": 0, "idx": 5, "changed": false}
+{"premise": "Re\u0161ija sam ostanem dom uve\u010de.", "choice1": "Vremenska prognoza najavljuvala oluje.", "choice2": "Drugari me nagovarali da isko\u010dim.", "question": "cause", "label": 0, "idx": 6, "changed": false}
+{"premise": "O\u010di mi se zacrveneli i natekli.", "choice1": "Jecaja sam.", "choice2": "Smejaja sam se.", "question": "cause", "label": 0, "idx": 7, "changed": false}
+{"premise": "Sve\u0107a sagorela.", "choice1": "Dunuja sam fitilj.", "choice2": "Turija sam \u0161ibicu na fitilj.", "question": "cause", "label": 0, "idx": 8, "changed": false}
+{"premise": "\u010covek dobrano popija na \u017eurku.", "choice1": "Imaja glavobolj sutradan.", "choice2": "Curija mu nos sutradan.", "question": "effect", "label": 0, "idx": 9, "changed": false}
+{"premise": "Lopta za kuglanje prevrnula \u010dunjevi za kuglanje.", "choice1": "\u010covek ku gurnuja loptu za kuglanje niz stazu.", "choice2": "Na \u010doveka mu ispala lopta za kuglanje na stopalo.", "question": "cause", "label": 0, "idx": 10, "changed": false}
+{"premise": "Za\u0458ednica saznala da \u010dovek umreja.", "choice1": "Njigova ga porodica sakranila na grobje.", "choice2": "\u010citulja mu isko\u010dila u novine.", "question": "cause", "label": 1, "idx": 11, "changed": false}
+{"premise": "Kompjuter mi se pokvarija.", "choice1": "Namontiraja sam novi zvu\u010dnjaci.", "choice2": "Izgubija sam svi podaci.", "question": "effect", "label": 1, "idx": 12, "changed": false}
+{"premise": "\u017dena napu\u0161tila rabotu.", "choice1": "Tela ima izvr\u0161nu funkciju u firmu.", "choice2": "Veruvala da se njojni \u0161efovi ne pona\u0161av eti\u010dki.", "question": "cause", "label": 1, "idx": 13, "changed": false}
+{"premise": "Igra\u010dica ufatila loptu.", "choice1": "Njojna saigra\u010dica vu frljila loptu.", "choice2": "Njojan protivnik probaja gu prese\u010de.", "question": "cause", "label": 0, "idx": 14, "changed": false}
+{"premise": "Sudija \u010duknuja sas \u010duk\u010de.", "choice1": "U sudnicu se razgalamili.", "choice2": "Porota obznanila presudu.", "question": "cause", "label": 0, "idx": 15, "changed": false}
+{"premise": "\u017dena gi iskarala deca od njojno imanje.", "choice1": "Deca ritnuli loptu u njojnu avliju.", "choice2": "Deca gazili krz njojnu ba\u0161\u010du.", "question": "cause", "label": 1, "idx": 16, "changed": false}
+{"premise": "Otmi\u010dari oslobodili taoca.", "choice1": "Pristanuli na otkupninu.", "choice2": "Pobegli iz zatvor.", "question": "cause", "label": 0, "idx": 17, "changed": false}
+{"premise": "Na kuvara mu zasuzilo oko.", "choice1": "Nestaja mu luk.", "choice2": "Sekja luk.", "question": "cause", "label": 1, "idx": 18, "changed": false}
+{"premise": "\u017dena turila prs pod ladnu vodu.", "choice1": "Izgorela si prs na toster.", "choice2": "Turila si dijamancki prsten na prs.", "question": "cause", "label": 0, "idx": 19, "changed": false}
+{"premise": "U\u010denica ne speluvala dobro re\u010d.", "choice1": "Nastavnik gu ispravija.", "choice2": "Nastavnik gu udaljija.", "question": "effect", "label": 0, "idx": 20, "changed": false}
+{"premise": "Primirija sam se posle besnuvanje.", "choice1": "Srce mi lupalo.", "choice2": "Duboko sam uzdanuja.", "question": "cause", "label": 1, "idx": 21, "changed": false}
+{"premise": "Turija sam ruke ispod teku\u0107u slavinu.", "choice1": "Sapun mi ispraja ruke.", "choice2": "Voda mi pljusnula u lice.", "question": "effect", "label": 0, "idx": 22, "changed": false}
+{"premise": "\u010covek se presvukja u njigovo najboljo odelo.", "choice1": "Zakazaja sastanak sas va\u017enoga klijenta.", "choice2": "\u017dena mu kupila novu kravatu.", "question": "cause", "label": 0, "idx": 23, "changed": false}
+{"premise": "\u010covek priznaja da gu voli \u017eenu.", "choice1": "\u017dena ga odbila.", "choice2": "\u017dena mu zavi\u0111ala.", "question": "effect", "label": 0, "idx": 24, "changed": false}
+{"premise": "Na voza\u010da mu pukla guma.", "choice1": "Vozija preko dozvoljenu brzinu.", "choice2": "Pre\u0161ja preko eser.", "question": "cause", "label": 1, "idx": 25, "changed": false}
+{"premise": "Bija mi prepre\u010den pogled na filmski ekran.", "choice1": "Par poza mene \u0161apkaja.", "choice2": "Visok \u010dovek sedeja ispred mene.", "question": "cause", "label": 1, "idx": 26, "changed": false}
+{"premise": "Voza\u010d upalija farovi na kola.", "choice1": "\u010cuja grmljavinu.", "choice2": "Za\u0161lo slunce.", "question": "cause", "label": 1, "idx": 27, "changed": false}
+{"premise": "Devoj\u010dica ne tela jede povr\u0107ke.", "choice1": "Tatko vu rekja da si pije mleko.", "choice2": "Tatko vu uzeja dezert.", "question": "effect", "label": 1, "idx": 28, "changed": false}
+{"premise": "\u017dena si pokrila usta sas ruku.", "choice1": "Danula.", "choice2": "Kinula.", "question": "cause", "label": 1, "idx": 29, "changed": false}
+{"premise": "Sekretar turija poziva\u010da na \u010dekanje.", "choice1": "Telefon od poziva\u010da izgubija prijem.", "choice2": "Poziva\u010d \u010dekaja na liniju.", "question": "effect", "label": 1, "idx": 30, "changed": false}
+{"premise": "\u017dena odila sas \u0161take.", "choice1": "Obrijala si noge.", "choice2": "Iskr\u0161ila si nogu.", "question": "cause", "label": 1, "idx": 31, "changed": false}
+{"premise": "Ka\u0161ljaja sam.", "choice1": "Udisaja sam dim.", "choice2": "Prigu\u0161ija sam si glas.", "question": "cause", "label": 0, "idx": 32, "changed": false}
+{"premise": "Sat otkucaja.", "choice1": "Bija ta\u010dno pun sat.", "choice2": "\u010cinilo se vreme sporo prolazi.", "question": "cause", "label": 0, "idx": 33, "changed": false}
+{"premise": "Kuvar udarija jajce na ivicu od \u010diniju.", "choice1": "Jajce se iskr\u0161ilo.", "choice2": "Jajce istrulelo.", "question": "effect", "label": 0, "idx": 34, "changed": false}
+{"premise": "Milicija pretresla kola na nasilnika.", "choice1": "Poku\u0161uvali iznudiv priznanje.", "choice2": "Tra\u017eili drogu.", "question": "cause", "label": 1, "idx": 35, "changed": false}
+{"premise": "Par otputuvaja na jug za zimu.", "choice1": "Penzionisali se.", "choice2": "Rastanuli se.", "question": "cause", "label": 0, "idx": 36, "changed": false}
+{"premise": "\u010covek osi\u0107aja obavezu da otidne na doga\u0111aj.", "choice1": "Odbija poziv od drugara da ide.", "choice2": "Obe\u0107aja na drugara da \u0107e ide.", "question": "cause", "label": 1, "idx": 37, "changed": false}
+{"premise": "Mlada se pi\u0161manila pred svadbu.", "choice1": "Gosti na svadbu kupili pokloni.", "choice2": "Otkazala gu svadbu.", "question": "effect", "label": 1, "idx": 38, "changed": false}
+{"premise": "\u010covek ostareja.", "choice1": "Kosa mu osedela.", "choice2": "Prodaja si njigov imetak.", "question": "effect", "label": 0, "idx": 39, "changed": false}
+{"premise": "Drugari re\u0161ili podeliv hamburger.", "choice1": "Isekli ga hamburger na dve polovinke.", "choice2": "Naru\u010dili pomfrit uz hamburger.", "question": "effect", "label": 0, "idx": 40, "changed": false}
+{"premise": "Odvrnuja sam \u010dep na bocu od gaziran sok.", "choice1": "Gaziran sok za\u0161u\u0161teja.", "choice2": "Gaziran sok iscurija.", "question": "effect", "label": 0, "idx": 41, "changed": false}
+{"premise": "Dva u\u010denika gi nastavnik nadziraja.", "choice1": "Oba u\u010denika dobili odli\u010dne ocene.", "choice2": "Njini odgovori za doma\u0107i bili isti.", "question": "cause", "label": 1, "idx": 42, "changed": false}
+{"premise": "U\u010denik \u017eurija stigne u \u0161kolu na vreme.", "choice1": "Doma\u0107i mu ostaja dom.", "choice2": "Poneja si ru\u010dak u \u0161kolu.", "question": "effect", "label": 0, "idx": 43, "changed": false}
+{"premise": "Novinar napisaja \u017eivotopis od humanitarca.", "choice1": "Na novinara mu bilo te\u0161ko da napravi intervju sas humanitarca.", "choice2": "Na novinara mu anga\u017eman od humanitarca bija enteresantan.", "question": "cause", "label": 1, "idx": 44, "changed": false}
+{"premise": "\u010covek prkosija na crkvenu vlas.", "choice1": "Doniraja pare na crkvu.", "choice2": "Isfrljili ga iz crkvu.", "question": "effect", "label": 1, "idx": 45, "changed": false}
+{"premise": "Na \u017eenu vu kosa padnula preko lice.", "choice1": "Skupila kosu sas \u0161nalu.", "choice2": "Turila \u0161ampon u kosu.", "question": "effect", "label": 0, "idx": 46, "changed": false}
+{"premise": "Zaglavija mi se prsten na prs.", "choice1": "Otekja mi prs.", "choice2": "Okrnjija mi se nokat.", "question": "cause", "label": 0, "idx": 47, "changed": false}
+{"premise": "Povukja sam gumicu.", "choice1": "Odletela preko sobu.", "choice2": "Rastegla se.", "question": "effect", "label": 1, "idx": 48, "changed": false}
+{"premise": "Brknuja sam sas ruku u mokar cement.", "choice1": "Otisak od ruku mi se osu\u0161ija u cement.", "choice2": "U cement se napravile pukotine.", "question": "effect", "label": 0, "idx": 49, "changed": false}
+{"premise": "Po ko\u017eu me izbija osip.", "choice1": "Zaka\u010dija sam otrovan br\u0161ljan u moju avliju.", "choice2": "Iskorenija sam otrovan br\u0161ljan iz moju avliju.", "question": "cause", "label": 0, "idx": 50, "changed": false}
+{"premise": "Istekla mi pretplata u \u010dasopis.", "choice1": "Odbija sam nov broj.", "choice2": "Prestanuja sam dobijam novi brojevi.", "question": "effect", "label": 1, "idx": 51, "changed": false}
+{"premise": "Detektiv otkrija anomaliju u slu\u010daj.", "choice1": "Dovr\u0161ija si njigovu teoriju.", "choice2": "Odbacija si njigovu teoriju.", "question": "effect", "label": 1, "idx": 52, "changed": false}
+{"premise": "De\u010dak se razbesneja.", "choice1": "Brat mu uzeja njigove igra\u010dke.", "choice2": "Delija si igra\u010dke sas brata.", "question": "cause", "label": 0, "idx": 53, "changed": false}
+{"premise": "Dete nau\u010dilo \u010dita.", "choice1": "Po\u0161lo u \u0161kolu.", "choice2": "Preripilo razred u \u0161kolu.", "question": "cause", "label": 0, "idx": 54, "changed": false}
+{"premise": "De\u010dak preripija ve\u010deru.", "choice1": "Majka mu skuvala njigovo omiljeno jelo.", "choice2": "Izeja golem ru\u010dak.", "question": "cause", "label": 1, "idx": 55, "changed": false}
+{"premise": "\u017dena vu se ulaguvala na drugaricu.", "choice1": "Tela si zamoli drugaricu za uslugu.", "choice2": "Nerviralo gu kukanje od njojnu drugaricu.", "question": "cause", "label": 0, "idx": 56, "changed": false}
+{"premise": "Klju\u010d mi ga nemaja u d\u017eep od pantalone.", "choice1": "D\u017eep imaja rupu.", "choice2": "Pantalone bile nove.", "question": "cause", "label": 0, "idx": 57, "changed": false}
+{"premise": "\u010covek se zanesvestija.", "choice1": "Dremnuja.", "choice2": "Tr\u010daja maraton.", "question": "cause", "label": 1, "idx": 58, "changed": false}
+{"premise": "\u010covek izgubija na takmi\u010denje.", "choice1": "Takmi\u010denje ga sabotirali.", "choice2": "Zastra\u0161ija njigovi protivnici.", "question": "cause", "label": 0, "idx": 59, "changed": false}
+{"premise": "Majka viknula kitnu.", "choice1": "Sin vu izgubija ma\u010dku.", "choice2": "Sin vu ispadnuja iz krevet.", "question": "cause", "label": 1, "idx": 60, "changed": false}
+{"premise": "Voza\u010d zgazija ko\u010dnicu.", "choice1": "Jelen isko\u010dija na put.", "choice2": "Ugasija se radio u kola.", "question": "cause", "label": 0, "idx": 61, "changed": false}
+{"premise": "Brava se otvorila.", "choice1": "Obrnuja sam klju\u010d u bravu.", "choice2": "Napravija sam duplikat od klju\u010d.", "question": "cause", "label": 0, "idx": 62, "changed": false}
+{"premise": "Navukja sam si gumene rukavice.", "choice1": "Spremaja sam se da si operem ruke.", "choice2": "Spremaja sam se \u010distim kupatilo.", "question": "cause", "label": 1, "idx": 63, "changed": false}
+{"premise": "\u017divotinjske vrste postale ugro\u017eene.", "choice1": "Stani\u0161te gi ga uni\u0161tili.", "choice2": "Njini predatori izumreli.", "question": "cause", "label": 0, "idx": 64, "changed": false}
+{"premise": "\u010covek zapazija da \u017eena izgleda drugoja\u010dije.", "choice1": "\u017dena se o\u0161i\u0161ala.", "choice2": "\u017dena nosila narukvicu.", "question": "cause", "label": 0, "idx": 65, "changed": false}
+{"premise": "U\u010denica zabravila uradi doma\u0107i.", "choice1": "Smislila izgovor da rekne na nastavnika.", "choice2": "Nastavnik gu unapredija u slede\u0107i razred.", "question": "effect", "label": 0, "idx": 66, "changed": false}
+{"premise": "Ku\u010de zalajalo.", "choice1": "Ma\u010dka legala na kau\u010d.", "choice2": "Za\u010dulo se kucanje na vrata.", "question": "cause", "label": 1, "idx": 67, "changed": false}
+{"premise": "Najavili planovi da lokalni park zameniv sas tr\u017eni centar.", "choice1": "Borci za \u017eivotnu sredinu pokrenuli peticiju.", "choice2": "Borci za \u017eivotnu sredinu napravili dokumentarac.", "question": "effect", "label": 0, "idx": 68, "changed": false}
+{"premise": "Par se raduvuja \u0161to se sri\u0107av.", "choice1": "Cunali se.", "choice2": "Odmarali se.", "question": "effect", "label": 0, "idx": 69, "changed": false}
+{"premise": "\u017dena ga zamolila \u010doveka da ide.", "choice1": "Uvredija gu.", "choice2": "Zafalija vu se.", "question": "cause", "label": 0, "idx": 70, "changed": false}
+{"premise": "Granjka upala u reku.", "choice1": "Granjka plovila nizbrdo.", "choice2": "Re\u010dna struja se poja\u010dala.", "question": "effect", "label": 0, "idx": 71, "changed": false}
+{"premise": "Nastavnik zadaja doma\u0107i na u\u010denici.", "choice1": "U\u010denici razmenjuvali bele\u0161ke.", "choice2": "U\u010denici uzdanuli.", "question": "effect", "label": 1, "idx": 72, "changed": false}
+{"premise": "Godi\u0161nje doba se promenilo iz leto u jesen.", "choice1": "Ljudi si evakuisali njine ku\u0107e.", "choice2": "Lisja opali od drve\u0107e.", "question": "effect", "label": 1, "idx": 73, "changed": false}
+{"premise": "Politi\u010dara ga osudili za prevaru.", "choice1": "Vodija kampanju za ponovan izbor.", "choice2": "Smenili ga od funkciju.", "question": "effect", "label": 1, "idx": 74, "changed": false}
+{"premise": "Gurnuja sam kolica.", "choice1": "Predmeti ispali iz kolica.", "choice2": "To\u010dkovi od kolica se obr\u0107ali napred.", "question": "effect", "label": 1, "idx": 75, "changed": false}
+{"premise": "Lobist\u0430 ubedija skup\u0161tinu da podr\u017ei zakon.", "choice1": "Precednik turija veto na zakon.", "choice2": "Skup\u0161tina ga usvojila zakon.", "question": "effect", "label": 1, "idx": 76, "changed": false}
+{"premise": "Ormar mi bija u haos.", "choice1": "Naredija sam ga.", "choice2": "Ukrasija sam ga.", "question": "effect", "label": 0, "idx": 77, "changed": false}
+{"premise": "Ostaja sam do kasno.", "choice1": "Toj ve\u010de sam imaja \u017eivi snovi.", "choice2": "Bija sam umoran ujutro.", "question": "effect", "label": 1, "idx": 78, "changed": false}
+{"premise": "Na \u010doveka mu d\u017eep zveckaja dok odija.", "choice1": "D\u017eep mu bija pun sas parke.", "choice2": "U\u0161ija si rupu na d\u017eep.", "question": "cause", "label": 0, "idx": 79, "changed": false}
+{"premise": "Svi u razred se obrnuli i buljili u u\u010denika.", "choice1": "Na u\u010denika mu zvonija telefon.", "choice2": "U\u010denik va\u0107aja bele\u0161ke.", "question": "cause", "label": 0, "idx": 80, "changed": false}
+{"premise": "Konj podripnuja.", "choice1": "Mu\u0161ica ga uapala konja.", "choice2": "Ja\u0161a\u010d ga pomiluvaja konja.", "question": "cause", "label": 0, "idx": 81, "changed": false}
+{"premise": "Kradljivci od nakit bili uva\u0107eni.", "choice1": "Ukraden nakit ga vrnuli na vlasnici.", "choice2": "Izra\u010dunali cenu od ukraden nakit.", "question": "effect", "label": 0, "idx": 82, "changed": false}
+{"premise": "U narod izbilo politi\u010dko nasilje.", "choice1": "Mlogo gra\u0111ani gi premestili u prestonicu.", "choice2": "Mlogo gra\u0111ani se sklonili u drugi mesta.", "question": "effect", "label": 1, "idx": 83, "changed": false}
+{"premise": "\u017denu gu uapsili.", "choice1": "Prijavila se za rehabilitaciju.", "choice2": "Izvr\u0161ila napad.", "question": "cause", "label": 1, "idx": 84, "changed": false}
+{"premise": "\u017dena pro\u010ditala novine.", "choice1": "Saznala rezultati od izbori.", "choice2": "Glasala na izbori.", "question": "effect", "label": 0, "idx": 85, "changed": false}
+{"premise": "Bolesno dete se naka\u0161ljalo nakude drugara.", "choice1": "Drugar mu se razboleja.", "choice2": "Drugar mu kinuja.", "question": "effect", "label": 0, "idx": 86, "changed": false}
+{"premise": "Par se verija.", "choice1": "Planirali svadbu.", "choice2": "Razdvojili se na niko vreme.", "question": "effect", "label": 0, "idx": 87, "changed": false}
+{"premise": "\u017dena se obratila na agenta za nekretnine.", "choice1": "\u017dena planirala kupi stan.", "choice2": "\u017dena trebala \u010disti ku\u0107u.", "question": "cause", "label": 0, "idx": 88, "changed": false}
+{"premise": "\u010covek dobija na lutriju.", "choice1": "Obogatija se.", "choice2": "Duguvaja pare.", "question": "effect", "label": 0, "idx": 89, "changed": false}
+{"premise": "Upalija sam sve\u0107u.", "choice1": "Vosak kapaja od sve\u0107u.", "choice2": "Vosak na sve\u0107u se stvrdnuja.", "question": "effect", "label": 0, "idx": 90, "changed": false}
+{"premise": "Proveja sam dan na bazen.", "choice1": "Uganuja sam koleno.", "choice2": "Lice mi pocrnelo.", "question": "effect", "label": 1, "idx": 91, "changed": false}
+{"premise": "\u010covek dobija kartu za parking.", "choice1": "Parkiraja se paralelno uz ulicu.", "choice2": "Vreme na parking isteklo.", "question": "cause", "label": 1, "idx": 92, "changed": false}
+{"premise": "\u017dena postala slavna.", "choice1": "Slikari gu pratili.", "choice2": "Porodica gu izbegavala.", "question": "effect", "label": 0, "idx": 93, "changed": false}
+{"premise": "Devojka tela nosi men\u0111u\u0161e.", "choice1": "Izbu\u0161ila si u\u0161i.", "choice2": "Istetovirala se.", "question": "effect", "label": 0, "idx": 94, "changed": false}
+{"premise": "U\u0161i mi zujali.", "choice1": "I\u0161ja sam u muzej.", "choice2": "I\u0161ja sam na koncert.", "question": "cause", "label": 1, "idx": 95, "changed": false}
+{"premise": "O\u010distija sam si ku\u0107u.", "choice1": "Bija sam prenatrpan sas rabotu.", "choice2": "\u010cekaja sam dru\u0161tvo.", "question": "cause", "label": 1, "idx": 96, "changed": false}
+{"premise": "Avio-kompanija ne postupala dobro sas moj prtljag.", "choice1": "Ponudili kompenzaciju.", "choice2": "Otkazali mi let.", "question": "effect", "label": 0, "idx": 97, "changed": false}
+{"premise": "Kompjuter bija skup za opraljanje.", "choice1": "Popravili mi ga.", "choice2": "Kupija sam nov.", "question": "effect", "label": 1, "idx": 98, "changed": false}
+{"premise": "\u017dena bila u lo\u0161o raspolo\u017eenje.", "choice1": "Pro\u0107askala sas njojnu si drugaricu.", "choice2": "Kazala si na drugaricu da gu ostavi samu.", "question": "effect", "label": 1, "idx": 99, "changed": false}

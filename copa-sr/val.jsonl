@@ -1,0 +1,100 @@
+{"premise":"Човек је отворио славину.","choice1":"WC шоља се напунила водом.","choice2":"Вода је текла из славине.","question":"effect","label":1,"idx":0,"changed":false}
+{"premise":"Девојчица је пронашла бубу у житарицама.","choice1":"Сипала је млеко у чинију.","choice2":"Изгубила је апетит.","question":"effect","label":1,"idx":1,"changed":false}
+{"premise":"Жена се пензионисала.","choice1":"Примила је пензију.","choice2":"Отплатила је кредит.","question":"effect","label":0,"idx":2,"changed":false}
+{"premise":"Желела сам да уштедим струју.","choice1":"Избрисала сам под у празној соби.","choice2":"Искључила сам светло у празној соби.","question":"effect","label":1,"idx":3,"changed":false}
+{"premise":"Месо пљескавице је постало смеђе.","choice1":"Кувар ју је замрзнуо.","choice2":"Кувар ју је испекао.","question":"cause","label":1,"idx":4,"changed":false}
+{"premise":"Сумњао сам у предлог продавца.","choice1":"Одбио сам његову понуду.","choice2":"Убедио ме је да купим производ.","question":"effect","label":0,"idx":5,"changed":false}
+{"premise":"Одлучио сам да останем код куће током ноћи.","choice1":"Временска прогноза је најавила невреме.","choice2":"Пријатељи су ме убеђивали да изађем.","question":"cause","label":0,"idx":6,"changed":false}
+{"premise":"Очи су ми се зацрвенеле и натекле.","choice1":"Јецао сам.","choice2":"Смејао сам се.","question":"cause","label":0,"idx":7,"changed":false}
+{"premise":"Пламен свеће се угасио.","choice1":"Дунула сам у фитиљ.","choice2":"Ставила сам шибицу на фитиљ.","question":"cause","label":0,"idx":8,"changed":false}
+{"premise":"Човек је пуно пио на забави.","choice1":"Сутрадан га је болела глава.","choice2":"Сутрадан му је цурио нос.","question":"effect","label":0,"idx":9,"changed":false}
+{"premise":"Кугла је оборила чуњеве на куглању.","choice1":"Човек је бацио куглу низ стазу.","choice2":"Човек је испустио куглу на своју ногу.","question":"cause","label":0,"idx":10,"changed":false}
+{"premise":"Заједница је сазнала да човек умро.","choice1":"Породица га је сахранила на гробљу.","choice2":"Његова читуља се појавила у новинама.","question":"cause","label":1,"idx":11,"changed":false}
+{"premise":"Пао је систем на мом рачунару.","choice1":"Инсталирао сам нове звучнике.","choice2":"Изгубио сам све податке.","question":"effect","label":1,"idx":12,"changed":false}
+{"premise":"Жена је дала отказ на послу.","choice1":"Желела је да заузме извршни положај у фирми.","choice2":"Сматрала је да се њени надређени не понашају етички.","question":"cause","label":1,"idx":13,"changed":false}
+{"premise":"Играч је ухватио лопту.","choice1":"Саиграч му је добацио.","choice2":"Противник је покушао да је пресретне.","question":"cause","label":0,"idx":14,"changed":false}
+{"premise":"Судија је ударио чекићем.","choice1":"У судници је настала галама.","choice2":"Порота је објавила пресуду.","question":"cause","label":0,"idx":15,"changed":false}
+{"premise":"Жена је отерала децу са свог имања.","choice1":"Деца су шутнула лопту у њено двориште.","choice2":"Деца су јој газила башту.","question":"cause","label":1,"idx":16,"changed":false}
+{"premise":"Отмичари су ослободили таоца.","choice1":"Добили су новац за откупнину.","choice2":"Побегли су из затвора.","question":"cause","label":0,"idx":17,"changed":false}
+{"premise":"Очи кувара су засузиле.","choice1":"Нестало му је црног лука.","choice2":"Сецкао је црни лук.","question":"cause","label":1,"idx":18,"changed":false}
+{"premise":"Жена је ставила прст под хладну воду.","choice1":"Опекла је прст на тостеру.","choice2":"Ставила је дијамантски прстен на прст.","question":"cause","label":0,"idx":19,"changed":false}
+{"premise":"Ученица је погрешно написала реч.","choice1":"Учитељ је исправио.","choice2":"Учитељ је избацио са часа.","question":"effect","label":0,"idx":20,"changed":false}
+{"premise":"Смирила сам се након напада беса.","choice1":"Срце ми је лупало.","choice2":"Дисала сам дубоко.","question":"cause","label":1,"idx":21,"changed":false}
+{"premise":"Ставио сам руке под отворену славину.","choice1":"Сапун ми се испрао са руку.","choice2":"Вода ме је прснула у лице.","question":"effect","label":0,"idx":22,"changed":false}
+{"premise":"Човек је обукао своје најбоље одело.","choice1":"Заказао је састанак са важним клијентом.","choice2":"Жена му је купила нову кравату.","question":"cause","label":0,"idx":23,"changed":false}
+{"premise":"Човек је жени признао да је воли.","choice1":"Жена га је одбила.","choice2":"Жена му је завидела.","question":"effect","label":0,"idx":24,"changed":false}
+{"premise":"Возачу се пробушила гума.","choice1":"Возио је преко ограничења брзине.","choice2":"Прегазио је ексер.","question":"cause","label":1,"idx":25,"changed":false}
+{"premise":"Био ми је блокиран поглед на филмско платно.","choice1":"Пар иза мене је шапутао.","choice2":"Испред мене је седела висока особа.","question":"cause","label":1,"idx":26,"changed":false}
+{"premise":"Возач је укључио фарове аутомобила.","choice1":"Чуо је гром.","choice2":"Сунце је зашло.","question":"cause","label":1,"idx":27,"changed":false}
+{"premise":"Девојчица није хтела да поједе поврће.","choice1":"Отац јој је рекао да попије млеко.","choice2":"Отац јој је одузео десерт.","question":"effect","label":1,"idx":28,"changed":false}
+{"premise":"Жена је покрила уста руком.","choice1":"Издахнула је.","choice2":"Кихнула је.","question":"cause","label":1,"idx":29,"changed":false}
+{"premise":"Секретарица је ставила позив на чекање.","choice1":"Телефон позиваоца је изгубио пријем.","choice2":"Позивалац је чекао на линији.","question":"effect","label":1,"idx":30,"changed":false}
+{"premise":"Жена је ходала са штакама.","choice1":"Обријала је ноге.","choice2":"Поломила је ногу.","question":"cause","label":1,"idx":31,"changed":false}
+{"premise":"Кашљала сам.","choice1":"Удахнула сам дим.","choice2":"Спустила сам глас.","question":"cause","label":0,"idx":32,"changed":false}
+{"premise":"Сат је откуцавао.","choice1":"Био је пун сат.","choice2":"Чинило се да се време вукло.","question":"cause","label":0,"idx":33,"changed":false}
+{"premise":"Кувар је ударио јаје о руб чиније.","choice1":"Јаје је пукло.","choice2":"Јаје се покварило.","question":"effect","label":0,"idx":34,"changed":false}
+{"premise":"Полиција је претражила аутомобил осумњиченог.","choice1":"Покушавали су да изнуде признање.","choice2":"Тражили су илегалну дрогу.","question":"cause","label":1,"idx":35,"changed":false}
+{"premise":"Пар је отпутовао на југ током зиме.","choice1":"Били су у пензији.","choice2":"Били су раздвојени.","question":"cause","label":0,"idx":36,"changed":false}
+{"premise":"Човек је осећао обавезу да присуствује догађају.","choice1":"Одбио је позив пријатеља да иде.","choice2":"Обећао је пријатељу да ће ићи.","question":"cause","label":1,"idx":37,"changed":false}
+{"premise":"Младу је ухватила трема пред свадбу.","choice1":"Гости су донели поклоне на свадбу.","choice2":"Отказала је свадбу.","question":"effect","label":1,"idx":38,"changed":false}
+{"premise":"Човек је остарио.","choice1":"Коса му је оседела.","choice2":"Продао је своју имовину.","question":"effect","label":0,"idx":39,"changed":false}
+{"premise":"Пријатељи су одлучили да поделе хамбургер.","choice1":"Пресекли су хамбургер на пола.","choice2":"Наручили су помфрит уз хамбургер.","question":"effect","label":0,"idx":40,"changed":false}
+{"premise":"Окренуо сам чеп флашице газираног сока.","choice1":"Сок је зашиштао.","choice2":"Сок је исцурио.","question":"effect","label":0,"idx":41,"changed":false}
+{"premise":"Двоје студената је дошло под лупу професора.","choice1":"Оба студента су добила одличне оцене.","choice2":"Имали су идентичне одговоре у задатку.","question":"cause","label":1,"idx":42,"changed":false}
+{"premise":"Ђак је журио да стигне у школу на време.","choice1":"Оставио је домаћи задатак код куће.","choice2":"Понео је ручак у школу.","question":"effect","label":0,"idx":43,"changed":false}
+{"premise":"Новинар је написао биографију о животу хуманитарца.","choice1":"Новинару је био тешко да интервјуише хуманитарца.","choice2":"Новинара је заинтригирао живот хуманитарца.","question":"cause","label":1,"idx":44,"changed":false}
+{"premise":"Човек се успротивио црквеним властима.","choice1":"Донирао је новац цркви.","choice2":"Био је изопштен из цркве.","question":"effect","label":1,"idx":45,"changed":false}
+{"premise":"Жени је пала коса на лице.","choice1":"Скупила је косу шналом.","choice2":"Насапунала је косу шампоном.","question":"effect","label":0,"idx":46,"changed":false}
+{"premise":"Прстен ми је запео на прсту.","choice1":"Отекао ми је прст.","choice2":"Поломио сам нокат.","question":"cause","label":0,"idx":47,"changed":false}
+{"premise":"Повукла сам гумицу.","choice1":"Одлетела је преко собе.","choice2":"Развукла се.","question":"effect","label":1,"idx":48,"changed":false}
+{"premise":"Утиснуо сам руку у влажни цемент.","choice1":"Отисак моје руке се осушио у цементу.","choice2":"Појавиле су се пукотине у цементу.","question":"effect","label":0,"idx":49,"changed":false}
+{"premise":"На кожи ми се појавио осип.","choice1":"Очешала сам се о отровни бршљан у дворишту.","choice2":"Искоренила сам отровни бршљан из дворишта.","question":"cause","label":0,"idx":50,"changed":false}
+{"premise":"Истекла ми је претплата на часопис.","choice1":"Бацио сам нови број.","choice2":"Престао сам да добијам нове бројеве.","question":"effect","label":1,"idx":51,"changed":false}
+{"premise":"Детектив је открио аномалију у случају.","choice1":"Заокружио је своју теорију.","choice2":"Одбацио је своју теорију.","question":"effect","label":1,"idx":52,"changed":false}
+{"premise":"Дечак је имао напад беса.","choice1":"Брат му је одузео играчке.","choice2":"Делио је своје играчке са братом.","question":"cause","label":0,"idx":53,"changed":false}
+{"premise":"Дете је научило да чита.","choice1":"Почело је да похађа школу.","choice2":"Прескочило је разред у школи.","question":"cause","label":0,"idx":54,"changed":false}
+{"premise":"Дечак је прескочио вечеру.","choice1":"Мајка му је скувала омиљено јело.","choice2":"Појео је обилан ручак.","question":"cause","label":1,"idx":55,"changed":false}
+{"premise":"Жена је обасипала пријатељицу комплиментима.","choice1":"Хтела је да пита пријатељицу за услугу.","choice2":"Изнервирало је кукање пријатељице.","question":"cause","label":0,"idx":56,"changed":false}
+{"premise":"Нестао ми је кључ из џепа панталона.","choice1":"Џеп је имао рупу.","choice2":"Панталоне су биле нове.","question":"cause","label":0,"idx":57,"changed":false}
+{"premise":"Човек се онесвестио.","choice1":"Задремао је.","choice2":"Истрчао је маратон.","question":"cause","label":1,"idx":58,"changed":false}
+{"premise":"Човек је изгубио на такмичењу.","choice1":"Такмичење је било намештено.","choice2":"Застрашивао је друге такмичаре.","question":"cause","label":0,"idx":59,"changed":false}
+{"premise":"Мајка је позвала хитну помоћ.","choice1":"Њен син је изгубио мачку.","choice2":"Њен син је испао из кревета.","question":"cause","label":1,"idx":60,"changed":false}
+{"premise":"Возач је нагло закочио.","choice1":"На путу се појавио јелен.","choice2":"Искључио се радио у аутомобилу.","question":"cause","label":0,"idx":61,"changed":false}
+{"premise":"Брава се отворила.","choice1":"Окренула сам кључ у брави.","choice2":"Направила сам дупликат кључа.","question":"cause","label":0,"idx":62,"changed":false}
+{"premise":"Ставио сам гумене рукавице.","choice1":"Спремао сам се да оперем руке.","choice2":"Спремао сам се да орибам купатило.","question":"cause","label":1,"idx":63,"changed":false}
+{"premise":"Животињске врсте су постале угрожене.","choice1":"Њихово станиште је уништено.","choice2":"Њихови предатори су изумрли.","question":"cause","label":0,"idx":64,"changed":false}
+{"premise":"Мушкарац је приметио да жена изгледа другачије.","choice1":"Жена се ошишала.","choice2":"Жена је носила наруквицу.","question":"cause","label":0,"idx":65,"changed":false}
+{"premise":"Ученица је заборавила да уради домаћи задатак.","choice1":"Измислила је изговор за наставника.","choice2":"Наставник ју је пребацио у виши разред.","question":"effect","label":0,"idx":66,"changed":false}
+{"premise":"Пас је лајао.","choice1":"Мачка се излежавала на каучу.","choice2":"Чуло се куцање на вратима.","question":"cause","label":1,"idx":67,"changed":false}
+{"premise":"Најављени су планови за претварање локалног парка у тржни центар.","choice1":"Еколози су покренули петицију.","choice2":"Еколози су снимили документарни филм.","question":"effect","label":0,"idx":68,"changed":false}
+{"premise":"Пар се обрадовао што су се срели.","choice1":"Пољубили су се.","choice2":"Одмарали су се.","question":"effect","label":0,"idx":69,"changed":false}
+{"premise":"Жена је замолила мушкарца да оде.","choice1":"Увредио ју је.","choice2":"Захвалио јој се.","question":"cause","label":0,"idx":70,"changed":false}
+{"premise":"Грана дрвета је пала у реку.","choice1":"Грана је ишла низводно.","choice2":"Речна струја се појачала.","question":"effect","label":0,"idx":71,"changed":false}
+{"premise":"Наставник је дао ученицима домаћи задатак.","choice1":"Ученици су разменили белешке.","choice2":"Ученици су негодовали.","question":"effect","label":1,"idx":72,"changed":false}
+{"premise":"Променило се годишње доба из лета у јесен.","choice1":"Људи су се евакуисали из домова.","choice2":"Лишће је опало са дрвећа.","question":"effect","label":1,"idx":73,"changed":false}
+{"premise":"Политичар је осуђен за превару.","choice1":"Покренуо је кампању за реизбор.","choice2":"Смењен је са функције.","question":"effect","label":1,"idx":74,"changed":false}
+{"premise":"Гурнуо сам колица.","choice1":"Испале су ствари из колица.","choice2":"Точкови на колицима су се окренули унапред.","question":"effect","label":1,"idx":75,"changed":false}
+{"premise":"Лобиста је убедио парламент да подржи предлог закона.","choice1":"Председник је ставио вето на предлог закона.","choice2":"Парламент је усвојио предлог закона.","question":"effect","label":1,"idx":76,"changed":false}
+{"premise":"Ормар ми је био у нереду.","choice1":"Средила сам га.","choice2":"Украсила сам га.","question":"effect","label":0,"idx":77,"changed":false}
+{"premise":"Остао сам будан до касно.","choice1":"Имао сам живописне снове те ноћи.","choice2":"Био сам уморан ујутру.","question":"effect","label":1,"idx":78,"changed":false}
+{"premise":"Човеков џеп је звецкао док је ходао.","choice1":"Џеп му је био пун новчића.","choice2":"Зашио је рупу на џепу.","question":"cause","label":0,"idx":79,"changed":false}
+{"premise":"Сви у одељењу су се окренули и погледали у ученика.","choice1":"Ученику је зазвонио телефон.","choice2":"Студент је хватао белешке.","question":"cause","label":0,"idx":80,"changed":false}
+{"premise":"Коњ се ритнуо.","choice1":"Мува је ујела коња.","choice2":"Јахач је помиловао коња.","question":"cause","label":0,"idx":81,"changed":false}
+{"premise":"Крадљивци накита су ухапшени.","choice1":"Украдени накит је враћен власницима.","choice2":"Израчуната је цена украденог накита.","question":"effect","label":0,"idx":82,"changed":false}
+{"premise":"Избило је политичко насиље у држави.","choice1":"Многи грађани су се преселили у главни град.","choice2":"Многи грађани су избегли у друге области.","question":"effect","label":1,"idx":83,"changed":false}
+{"premise":"Жена је ухапшена.","choice1":"Пријавила се на рехабилитацију.","choice2":"Извршила је напад.","question":"cause","label":1,"idx":84,"changed":false}
+{"premise":"Жена је читала новине.","choice1":"Сазнала је резултате избора.","choice2":"Гласала је на изборима.","question":"effect","label":0,"idx":85,"changed":false}
+{"premise":"Болесно дете је кашљало на друга.","choice1":"Његов друг се разболео.","choice2":"Његов друг је кихнуо.","question":"effect","label":0,"idx":86,"changed":false}
+{"premise":"Пар се верио.","choice1":"Планирали су венчање.","choice2":"Раздвојили су на неко време.","question":"effect","label":0,"idx":87,"changed":false}
+{"premise":"Жена се обратила агенту за некретнине.","choice1":"Жена је планирала да купи стан.","choice2":"Жена је морала да очисти кућу.","question":"cause","label":0,"idx":88,"changed":false}
+{"premise":"Човек је добио премију на лутрији.","choice1":"Постао је богат.","choice2":"Дуговао је новац.","question":"effect","label":0,"idx":89,"changed":false}
+{"premise":"Упалио сам свећу.","choice1":"Восак је цурио са свеће.","choice2":"Восак на свећи се стврднуо.","question":"effect","label":0,"idx":90,"changed":false}
+{"premise":"Провео сам дан на базену.","choice1":"Угануо сам зглоб.","choice2":"Лице ми је изгорело на сунцу.","question":"effect","label":1,"idx":91,"changed":false}
+{"premise":"Човек је добио казну за паркирање.","choice1":"Паркирао је паралелно на улици.","choice2":"Истекло му је време за паркирање.","question":"cause","label":1,"idx":92,"changed":false}
+{"premise":"Жена је постала позната.","choice1":"Фотографи су је пратили.","choice2":"Породица ју је избегавала.","question":"effect","label":0,"idx":93,"changed":false}
+{"premise":"Девојка је желела да носи минђуше.","choice1":"Пробушила је уши.","choice2":"Истетовирала се.","question":"effect","label":0,"idx":94,"changed":false}
+{"premise":"Уши су ми звониле.","choice1":"Била сам у музеју.","choice2":"Била сам на концерту.","question":"cause","label":1,"idx":95,"changed":false}
+{"premise":"Средила сам кућу.","choice1":"Била сам затрпана послом.","choice2":"Очекивала сам друштво.","question":"cause","label":1,"idx":96,"changed":false}
+{"premise":"Авио-превозник ми је загубио пртљаг.","choice1":"Понудили су ми компензацију.","choice2":"Отказали су ми лет.","question":"effect","label":0,"idx":97,"changed":false}
+{"premise":"Поправка рачунара је била скупа.","choice1":"Поправио сам га.","choice2":"Купио сам нови.","question":"effect","label":1,"idx":98,"changed":false}
+{"premise":"Жена је била нерасположена.","choice1":"Упустила се у празан разговор са пријатељицом.","choice2":"Рекла је пријатељици да је остави на миру.","question":"effect","label":1,"idx":99,"changed":false}
