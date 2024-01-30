@@ -27,13 +27,15 @@ For participants to get a feeling on the level of diversity in the data, below w
 
 **Cerkno dialect**: Dic je adparu pipa. Iz pipe je partjekla uoda.
 
-**Croatian****: Muškarac je otvorio slavinu. Voda je potekla iz mlaznice.
+**Croatian**: Muškarac je otvorio slavinu. Voda je potekla iz mlaznice.
 
 **Chakavian dialect**: Muški je otpra špino. Oda je počela teć z mlaznici.
 
 **Serbian**: Човек је отворио славину. Вода је текла из славине.
 
 **Serbian (transliterated)**: Čovek je otvorio slavinu. Voda je tekla iz slavine.
+
+**Torlak dialect**: Човек одврнуја славину. Вода истичала од славину.
 
 **Torlak dialect (transliterated)**: Čovek odvrnuja slavinu. Voda ističala od slavinu.
 
@@ -56,6 +58,8 @@ For participants to get a feeling on the level of diversity in the data, below w
 **Serbian**: Девојчица је пронашла бубу у житарицама. Изгубила је апетит.
 
 **Serbian (transliterated)**: Devojčica je pronašla bubu u žitaricama. Izgubila je apetit.
+
+**Torlak dialect**: Девојчица нашла бубаљку међу њојне житарице. Изгубила си апетит.
 
 **Torlak dialect (transliterated)**: Devojčica našla bubaljku među njojne žitarice. Izgubila si apetit.
 
