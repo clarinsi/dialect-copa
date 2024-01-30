@@ -24,43 +24,26 @@ For participants to get a feeling on the level of diversity in the data, below w
 - English: The man turned on the faucet. Water flowed from the spout.
 - Slovenian: Moški je odprl pipo. Iz ustja pipe je pritekla voda.
 - Cerkno dialect: Dic je adparu pipa. Iz pipe je partjekla uoda.
-
-**Croatian**: Muškarac je otvorio slavinu. Voda je potekla iz mlaznice.
-
-**Chakavian dialect**: Muški je otpra špino. Oda je počela teć z mlaznici.
-
-**Serbian**: Човек је отворио славину. Вода је текла из славине.
-
-**Serbian (transliterated)**: Čovek je otvorio slavinu. Voda je tekla iz slavine.
-
-**Torlak dialect**: Човек одврнуја славину. Вода истичала од славину.
-
-**Torlak dialect (transliterated)**: Čovek odvrnuja slavinu. Voda ističala od slavinu.
-
-**Macedonian**: Човекот ја отвори славината. Истече вода од славината.
-
-**Macedonian (transliterated)**: Čovekot ja otvori slavinata. Isteče voda od slavinata.
+- Croatian: Muškarac je otvorio slavinu. Voda je potekla iz mlaznice.
+- Chakavian dialect: Muški je otpra špino. Oda je počela teć z mlaznici.
+- Serbian: Човек је отворио славину. Вода је текла из славине.
+- Serbian (transliterated): Čovek je otvorio slavinu. Voda je tekla iz slavine.
+- Torlak dialect: Човек одврнуја славину. Вода истичала од славину.
+- Torlak dialect (transliterated): Čovek odvrnuja slavinu. Voda ističala od slavinu.
+- Macedonian: Човекот ја отвори славината. Истече вода од славината.
+- Macedonian (transliterated): Čovekot ja otvori slavinata. Isteče voda od slavinata.
 
 ### Premise and correct alternative from the second instance in the validation dataset
 
-**English**: The girl found a bug in her cereal. She lost her appetite.
+- English: The girl found a bug in her cereal. She lost her appetite.
+- Slovenian: Dekle je v kosmičih našlo žuželko. Izgubila je apetit.
+- Cerkno dialect: Zjala je najdla hruošče u kosmičih. Zgubila je apetit.
+- Croatian: Djevojka je pronašla kukca u žitaricama. Izgubila je apetit.
+- Chakavian dialect: Mlada je našla neko blago va žitaricah. Je zgubila tiek.
+- Serbian: Девојчица је пронашла бубу у житарицама. Изгубила је апетит.
+- Serbian (transliterated): Devojčica je pronašla bubu u žitaricama. Izgubila je apetit.
+- Torlak dialect: Девојчица нашла бубаљку међу њојне житарице. Изгубила си апетит.
+- Torlak dialect (transliterated): Devojčica našla bubaljku među njojne žitarice. Izgubila si apetit.
+- Macedonian: Девојката пронајде бубачка во нејзините житарки. Изгуби апетит.
+- Macedonian (transliterated): Devojkata pronajde bubačka vo nejzinite žitarki. Izgubi apetit.
 
-**Slovenian**: Dekle je v kosmičih našlo žuželko. Izgubila je apetit.
-
-**Cerkno dialect**: Zjala je najdla hruošče u kosmičih. Zgubila je apetit.
-
-**Croatian**: Djevojka je pronašla kukca u žitaricama. Izgubila je apetit.
-
-**Chakavian dialect**: Mlada je našla neko blago va žitaricah. Je zgubila tiek.
-
-**Serbian**: Девојчица је пронашла бубу у житарицама. Изгубила је апетит.
-
-**Serbian (transliterated)**: Devojčica je pronašla bubu u žitaricama. Izgubila je apetit.
-
-**Torlak dialect**: Девојчица нашла бубаљку међу њојне житарице. Изгубила си апетит.
-
-**Torlak dialect (transliterated)**: Devojčica našla bubaljku među njojne žitarice. Izgubila si apetit.
-
-**Macedonian**: Девојката пронајде бубачка во нејзините житарки. Изгуби апетит.
-
-**Macedonian (transliterated)**: Devojkata pronajde bubačka vo nejzinite žitarki. Izgubi apetit.
