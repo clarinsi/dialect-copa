@@ -21,11 +21,9 @@ For participants to get a feeling on the level of diversity in the data, below w
 
 ### Premise and correct alternative from the first instance in the validation dataset
 
-**English**: The man turned on the faucet. Water flowed from the spout.
-
-**Slovenian**: Moški je odprl pipo. Iz ustja pipe je pritekla voda.
-
-**Cerkno dialect**: Dic je adparu pipa. Iz pipe je partjekla uoda.
+- English: The man turned on the faucet. Water flowed from the spout.
+- Slovenian: Moški je odprl pipo. Iz ustja pipe je pritekla voda.
+- Cerkno dialect: Dic je adparu pipa. Iz pipe je partjekla uoda.
 
 **Croatian**: Muškarac je otvorio slavinu. Voda je potekla iz mlaznice.
 
