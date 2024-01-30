@@ -10,7 +10,7 @@ Bear in mind that each dialect is related primarily to the corresponding standar
 - [copa-sl-cer](copa-sl-cer/) - The Cerkno dialect of the Slovenian language
 - [copa-hr](copa-hr/) - Croatian language
 - [copa-sr](copa-sr/) - Serbian language
-- [copa-sr-tor](copa-sr-tor/) - The Torlak dialect of the Serbian, Macedonian, Bulgarian languages
+- [copa-sr-tor](copa-sr-tor/) - The Torlak dialect of the Serbian, Macedonian, Bulgarian language
 - [copa-mk](copa-mk/) - Macedonian language
 
 In the testing phase of the shared task, test data from the copa-sl-cer and the copa-sr-tor datasets will be shared with the participants, along with the test data of the copa-hr-ckm dataset, the surprise dialect of the shared task - the Chakavian dialect of the Croatian language.
