@@ -17,6 +17,10 @@ In the testing phase of the unshared task, test data from the copa-sl-cer and th
 
 ## Examples from the datasets
 
+For participants to get a feeling on the level of diversity in the data, below we are giving a few examples. Note that here also an example of the "surprise" Chakavian Croatian dialect is given.
+
+### Premise and correct alternative from the first instance in the validation dataset
+
 English: The man turned on the faucet. Water flowed from the spout.
 
 Slovenian: Moški je odprl pipo. Iz ustja pipe je pritekla voda.
@@ -37,6 +41,7 @@ Macedonian: Човекот ја отвори славината. Истече в
 
 Macedonian (transliterated): Čovekot ja otvori slavinata. Isteče voda od slavinata.
 
+### Premise and correct alternative from the second instance in the validation dataset
 
 English: The girl found a bug in her cereal. She lost her appetite.
 
