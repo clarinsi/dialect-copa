@@ -4,7 +4,7 @@ This repository contains the training and validation data for the [DIALECT-COPA 
 
 Each folder consists of training (400 instances, train.jsonl) and validation (100 instances, val.jsonl) data from the original [COPA dataset](https://people.ict.usc.edu/~gordon/copa.html), human-translated in the specific language or dialect. Languages that (also) use the Cyrillic alphabet have additional files transliterated into the Latin alphabet (train.trans.jsonl and val.trans.jsonl).
 
-Bear in mind that each dialect is related primarily to the corresponding standard language, but that standard languages are very much related as well.
+Bear in mind that each dialect is related primarily to the corresponding standard language, but that standard languages are very much related between themselves as well.
 
 - [copa-sl](copa-sl/) - Slovenian language
 - [copa-sl-cer](copa-sl-cer/) - The Cerkno dialect of the Slovenian language
