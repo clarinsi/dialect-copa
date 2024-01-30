@@ -1,4 +1,4 @@
-# Data for the DIALECT-COPA shared task of dialectal causal common-sense reasoning
+# Data for the DIALECT-COPA shared task of dialectal causal commonsense reasoning
 
 This repository contains the training and validation data for the [DIALECT-COPA shared task](https://sites.google.com/view/vardial-2024/shared-tasks/dialect-copa?authuser=0).
 
