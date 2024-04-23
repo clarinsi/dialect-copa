@@ -1,100 +1,100 @@
-{"choice1": "Skrit se je napauhnu z uoda.", "choice2": "Iz pipe je partjekla uoda.", "idx": 0, "label": 1, "premise": "Dic je adparu pipa.", "question": "effect"}
-{"choice1": "U sklička je nalila mlik.", "choice2": "Zgubila je apetit.", "idx": 1, "label": 1, "premise": "Zjala je najdla hruošče u kosmičih.", "question": "effect"}
-{"choice1": "Dabila je penzjun.", "choice2": "Adplačala je hipoteka.", "idx": 2, "label": 0, "premise": "Žinska je šla u penzjun.", "question": "effect"}
-{"choice1": "Pamjetla sn pa tleh u tafrej cimru.", "choice2": "Zaparla sn luč u tafrej cimru.", "idx": 3, "label": 1, "premise": "Tla sn bit uarčna iz energije.", "question": "effect"}
-{"choice1": "Kuhar ga je zamarznu.", "choice2": "Kuhar ga je spiku na žaru.", "idx": 4, "label": 1, "premise": "Mesu ad hamburgerje je ratalu arjau.", "question": "cause"}
-{"choice1": "Zauarnu sn negaua panudba.", "choice2": "Prepričeu me je, de sn kupu izdilk.", "idx": 5, "label": 0, "premise": "Nisn uariu u predstauitu ad kšeftarje.", "question": "effect"}
-{"choice1": "Napauedual sta neuihte.", "choice2": "Parjatlni sa tli, de grim uan.", "idx": 6, "label": 0, "premise": "Adluču sn se, de m zuečir dama.", "question": "cause"}
-{"choice1": "Uekala sn.", "choice2": "Smejala sn se.", "idx": 7, "label": 0, "premise": "Ači sn mila ardiče mpa zabuhle.", "question": "cause"}
-{"choice1": "Pihnu sn na taht.", "choice2": "Fajerca sn deu na taht.", "idx": 8, "label": 0, "premise": "Plaminčk na suič se je ugasiu.", "question": "cause"}
-{"choice1": "Druh dan ga je balila tintara.", "choice2": "Druh dan je biu smarkau.", "idx": 9, "label": 0, "premise": "Dic je strašnu piu na žuru.", "question": "effect"}
-{"choice1": "Dic je skataliu kugla pa staz daluan.", "choice2": "Dicu je kugla padla na nuoga.", "idx": 10, "label": 0, "premise": "Kugla je zbila kegle.", "question": "cause"}
-{"choice1": "Familje ga je zagrjebla na britafu.", "choice2": "Asmartnca sa abjaul u cajtngu.", "idx": 11, "label": 1, "premise": "Skupnast je zuidla za smart ad dica.", "question": "cause"}
-{"choice1": "Inštalirala sn noue zuočnike.", "choice2": "Zgubila sn use padatke.", "idx": 12, "label": 1, "premise": "Računalnik mi je carknu.", "question": "effect"}
-{"choice1": "U firm je tla bit par uarhu.", "choice2": "Uarila je, de ninni šefi nisa dilal etičnu.", "idx": 13, "label": 1, "premise": "Žinska je stila šeht.", "question": "cause"}
-{"choice1": "Soigrauka i i je uargla.", "choice2": "Nasprutnca i je tla prestrišt.", "idx": 14, "label": 0, "premise": "Igrauka je ulauila žuga.", "question": "cause"}
-{"choice1": "Sadnije je uzgnilu u luft.", "choice2": "Paruta je naznanila soje adlačitu.", "idx": 15, "label": 0, "premise": "Sadnik je udaru s kladucam.", "question": "cause"}
-{"choice1": "Žluta je cabnila žuga na ninnu dariše.", "choice2": "Žluta i je prepeštala uart.", "idx": 16, "label": 1, "premise": "Baba je žlut prepauidala bit na ninni zjeml.", "question": "cause"}
-{"choice1": "Spreil sa dnar za adkupnina.", "choice2": "Ušli sa z arjesta.", "idx": 17, "label": 0, "premise": "Ugrabitlni sa stil talce.", "question": "cause"}
-{"choice1": "Zmajnkalu mu je čebule.", "choice2": "Narizau je čebula.", "idx": 18, "label": 1, "premise": "Kuhar je jemu sauzne ači.", "question": "cause"}
-{"choice1": "Parst si je apjekla na tousterju.", "choice2": "Na parst si je dila dijamantna rinka.", "idx": 19, "label": 0, "premise": "Žinska je dila parst pad marzla uoda.", "question": "cause"}
-{"choice1": "Tšica i je papraula.", "choice2": "Tršica i je stila damu.", "idx": 20, "label": 0, "premise": "Učenka je narube napisala besida.", "question": "effect"}
-{"choice1": "Sarci mi je razbijelu.", "choice2": "Glabuoku sn dihau.", "idx": 21, "label": 1, "premise": "Pa napadu ize sn se pamiriu.", "question": "cause"}
-{"choice1": "Žajfa se m je sprala z ruk.", "choice2": "Uoda mi je šriflna u fris.", "idx": 22, "label": 0, "premise": "Ruoke sn deu pad pipa.", "question": "effect"}
-{"choice1": "Zmejnen je biu za sestank s pamimbna stranka.", "choice2": "Žjena mu je hpila noua krauata.", "idx": 23, "label": 0, "premise": "Dic se je abliku u ta zahmašn guant.", "question": "cause"}
-{"choice1": "Žinska ga je zauarnila.", "choice2": "Žinska mu je bla fauš.", "idx": 24, "label": 0, "premise": "Dic je žinsk pauidau, de je ima rad.", "question": "effect"}
-{"choice1": "Prehitru je uozu.", "choice2": "Pauozu je cujek.", "idx": 25, "label": 1, "premise": "Šuferju je pučla guma.", "question": "cause"}
-{"choice1": "Par za mana je šepetau.", "choice2": "Pred mana je sedeu en uelk člouk.", "idx": 26, "label": 1, "premise": "Nisn uidla na platnu u kinetu.", "question": "cause"}
-{"choice1": "Šlišeu je garmejne.", "choice2": "Sunce je šlu adzad.", "idx": 27, "label": 1, "premise": "Šufer je paržgau taspridne alči u autu.", "question": "cause"}
-{"choice1": "Ata i je riku, nej spije mlik.", "choice2": "Ata i je uzeu dolče.", "idx": 28, "label": 1, "premise": "Zjala ni tla ist zelenaue.", "question": "effect"}
-{"choice1": "Izdihlna je.", "choice2": "Kihlna je.", "idx": 29, "label": 1, "premise": "Žinska si je dila ruoka čez usta.", "question": "cause"}
-{"choice1": "Telefon ad klicatlce je zgubu signal.", "choice2": "Klicatlca je čakala na linij.", "idx": 30, "label": 1, "premise": "Tajnica je dila klicatlca na čakajne.", "question": "effect"}
-{"choice1": "Abrila si je nagi.", "choice2": "Zlamila si je nuoga.", "idx": 31, "label": 1, "premise": "Žinska je hadila na birglah.", "question": "cause"}
-{"choice1": "Udihnu sn dem.", "choice2": "Znižeu sn glas.", "idx": 32, "label": 0, "premise": "Zakašleu sn.", "question": "cause"}
-{"choice1": "Blu je ab akrugli ur.", "choice2": "Zdilu se je, de se ura uliče.", "idx": 33, "label": 0, "premise": "Ura je adbila.", "question": "cause"}
-{"choice1": "Jajc je puču.", "choice2": "Jajc je zgniu.", "idx": 34, "label": 0, "premise": "Kuharca je udarla z jajcam ab rub sklide.", "question": "effect"}
-{"choice1": "Tli sa mu zuabt parznajne.", "choice2": "Iskal sa ilegalne droge.", "idx": 35, "label": 1, "premise": "Palcije je pregliala auto ad storiuca.", "question": "cause"}
-{"choice1": "Bla sta u penzjunu.", "choice2": "Bla sta lučena.", "idx": 36, "label": 0, "premise": "Par je šou za čez zima na jug.", "question": "cause"}
-{"choice1": "Zauarnu je uabila ad parjatlna, de nej gri zram.", "choice2": "Parjatlnu je ablubu, de u šau.", "idx": 37, "label": 1, "premise": "Dic se je čutu daužnga, de gri na dagutk.", "question": "cause"}
-{"choice1": "Guosti na paruk sa parnjesl šejnke.", "choice2": "Adpauidala je paruka.", "idx": 38, "label": 1, "premise": "Neuista se je ustrašla pred paruka.", "question": "effect"}
-{"choice1": "Lasi sa mu ratal siui.", "choice2": "Predau je soje premažejne.", "idx": 39, "label": 0, "premise": "Dic se je pastarau.", "question": "effect"}
-{"choice1": "Hamburger sta prerizala na pau.", "choice2": "Zram hamburgerje sta naračila krempir.", "idx": 40, "label": 0, "premise": "Parjatlna sta se adlačila, de si usta patalela hamburger.", "question": "effect"}
-{"choice1": "Pjače je zašmila.", "choice2": "Pjače je spušala uan.", "idx": 41, "label": 0, "premise": "S flaše pjače z mehurčki sn aduila zamašk.", "question": "effect"}
-{"choice1": "Aba učence sta dabila adlične acine.", "choice2": "Nehni adgouori par nalug sa bli isti.", "idx": 42, "label": 1, "premise": "Tauarš je dubu učence na pika.", "question": "cause"}
-{"choice1": "Naluga je pustu dama.", "choice2": "U šula je parnisu južna.", "idx": 43, "label": 0, "premise": "Učencu se je mdilu, de bi paršu da cajta u šula.", "question": "effect"}
-{"choice1": "Nouinar je težku interujuau filantropa.", "choice2": "Nouinarja je zanimalu dilu ad filantropa.", "idx": 44, "label": 1, "premise": "Nouinar je napisau biografija ad žiulejne ad filantropa.", "question": "cause"}
-{"choice1": "Cirku je šejnkau saude.", "choice2": "Izubčl sa ga s cirkue.", "idx": 45, "label": 1, "premise": "Dic se je pastau kontra cerkuini ablast.", "question": "effect"}
-{"choice1": "Lasi si je spila s šlisa.", "choice2": "Našamponirala si je lasi.", "idx": 46, "label": 0, "premise": "Žinsk sa padl lasi na fris.", "question": "effect"}
-{"choice1": "Parst mi je atiku.", "choice2": "Zlamila sn si nuoht.", "idx": 47, "label": 0, "premise": "Rinka se m je zatknila na parstu.", "question": "cause"}
-{"choice1": "Zletila je čes cimr.", "choice2": "Stegnila se je.", "idx": 48, "label": 1, "premise": "Pategnila sn lastika.", "question": "effect"}
-{"choice1": "Adtis muoje ruoke se je pasušu u cementu.", "choice2": "U cementu sa ratale razpuke.", "idx": 49, "label": 0, "premise": "U mukr cement sn pahnu ruoka.", "question": "effect"}
-{"choice1": "Na darišu sn aplazu ab uctauc.", "choice2": "Z dariše sn adstranu uctauc.", "idx": 50, "label": 0, "premise": "Na kuž sa mi ratal fljeki.", "question": "cause"}
-{"choice1": "Noua štuilka sn urgla stran.", "choice2": "Jejnela sn dabiuat noue štuilke.", "idx": 51, "label": 1, "premise": "Patjekla mi je naračnina na reuije.", "question": "effect"}
-{"choice1": "Da kuonca je naridu suoja teorije.", "choice2": "Suoja teorije je prečartau.", "idx": 52, "label": 1, "premise": "Detektiu je nejdu anomalije u parmiru.", "question": "effect"}
-{"choice1": "Brat mu je uziu igrače.", "choice2": "Z bratam si je pataleu igrače.", "idx": 53, "label": 0, "premise": "Puba je razkajfalu.", "question": "cause"}
-{"choice1": "Začiu je huost u šula.", "choice2": "Preskuoču je razred u šul.", "idx": 54, "label": 0, "premise": "Uotrak se je nauadu brat.", "question": "cause"}
-{"choice1": "Mama mu je skuhala angaua tabuli hrana.", "choice2": "Uelik je snidu za južna.", "idx": 55, "label": 1, "premise": "Pub je preskuoču uečirje.", "question": "cause"}
-{"choice1": "Parjatlca je tla prašet za usluga.", "choice2": "Na žiuce i je šlu partažuajne ad parjatlce.", "idx": 56, "label": 0, "premise": "Žinska je parjatlca zasula s pahualami.", "question": "cause"}
-{"choice1": "U aržetu je bla lukne.", "choice2": "Hlače sa ble naue.", "idx": 57, "label": 0, "premise": "U aržetu ad hlač ni blu kluče.", "question": "cause"}
-{"choice1": "Zakinkau je.", "choice2": "Adlaufau je maraton.", "idx": 58, "label": 1, "premise": "Dic je padu skap.", "question": "cause"}
-{"choice1": "Tekma sa sabotiral.", "choice2": "Prestrašu je sotekmauauce.", "idx": 59, "label": 0, "premise": "Dic je zgubu tekma.", "question": "cause"}
-{"choice1": "Nin sin je zgubu mačka.", "choice2": "Nin sin je padu s pusle.", "idx": 60, "label": 1, "premise": "Mama je paklicala rešiuca.", "question": "cause"}
-{"choice1": "Na cist se je pajaula sarna.", "choice2": "Autoradjo se je ugasiu.", "idx": 61, "label": 0, "premise": "Šufer je partisnu na žlajf.", "question": "cause"}
-{"choice1": "Abarnu sn kluč u klučaunc.", "choice2": "Patuplau sn kluč.", "idx": 62, "label": 0, "premise": "Klučaunca se je adklenila.", "question": "cause"}
-{"choice1": "Bla sn na temu, de si apjerem ruoke.", "choice2": "Bla sn na temu, de spucam kopalnica.", "idx": 63, "label": 1, "premise": "Guor sn dila gumnatne rakauice.", "question": "cause"}
-{"choice1": "Uničl sa nem žiulejnski pruostar.", "choice2": "Ninni pleniuci sa izumarl.", "idx": 64, "label": 0, "premise": "Žiualska uarsta je bla agružena.", "question": "cause"}
-{"choice1": "Žinska si je astrigla lasi.", "choice2": "Žinska je nasila bruzletna.", "idx": 65, "label": 0, "premise": "Dic je parajtau, de žinska dargač zglia.", "question": "cause"}
-{"choice1": "Zmislna si je izgouor za tršica.", "choice2": "Tršica i je upisala u naslidn razred.", "idx": 66, "label": 0, "premise": "Učenka je pazabila narjest naluga.", "question": "effect"}
-{"choice1": "Mačk je paležauau na kauču.", "choice2": "Par uratih je blu šlišet tarkajne.", "idx": 67, "label": 1, "premise": "Pas je zalajeu.", "question": "cause"}
-{"choice1": "Okoljeuarstueniki sa začil peticije.", "choice2": "Okoljeuarstueniki sa pasnil dokumentarc.", "idx": 68, "label": 0, "premise": "Napauidal sa načrte, de bi namest lokalnga parka zgradil nakupaualni centr.", "question": "effect"}
-{"choice1": "Palbila sta se.", "choice2": "Pačiuala sta.", "idx": 69, "label": 0, "premise": "Par je biu uesiu, de se uidta.", "question": "effect"}
-{"choice1": "Užalu i je.", "choice2": "Zahualu se i je.", "idx": 70, "label": 0, "premise": "Žinska je dicu rjekla, nej gri.", "question": "cause"}
-{"choice1": "Ueje je plauala daluan.", "choice2": "Tuk ad rike je ratau bel mačan.", "idx": 71, "label": 0, "premise": "Ueje je parstala u rik.", "question": "effect"}
-{"choice1": "Učenci sa si pašilal ciglce.", "choice2": "Učenci sa zastukal.", "idx": 72, "label": 1, "premise": "Tauarš je dau učencam damače naluga.", "question": "effect"}
-{"choice1": "Aldi sa zapstil damaue.", "choice2": "Listi sa adpadl z driuje.", "idx": 73, "label": 1, "premise": "Litni cajti sa šli s palitje u jesin.", "question": "effect"}
-{"choice1": "Jemu je uolilna kampajne, de b ga še ejnkat zualil.", "choice2": "Snil sa ga s palažaje.", "idx": 74, "label": 1, "premise": "Politika sa absadil za galfije.", "question": "effect"}
-{"choice1": "Arči sa padle uan z uza.", "choice2": "Kalisa ad uza sa se zauartila naprej.", "idx": 75, "label": 1, "premise": "Pahnu sn uz.", "question": "effect"}
-{"choice1": "Predsednik je dau ueto na asnutk zakuna.", "choice2": "Zakonadajauci sa spreil asnutk zakuna.", "idx": 76, "label": 1, "premise": "Lobisti sa prepričel zakonodajauce, de sa padparl asnutk zakuna.", "question": "effect"}
-{"choice1": "Sprau sn je u rid.", "choice2": "Akrasiu sn je.", "idx": 77, "label": 0, "premise": "Muoja marejna ni bla paspraulena.", "question": "effect"}
-{"choice1": "Tista nuč sn u žiu sajnela.", "choice2": "Zjutri sn bla zmatrana.", "idx": 78, "label": 1, "premise": "Kasnu sn bla pakuonc.", "question": "effect"}
-{"choice1": "Aržet je jemu pauhn drabiže.", "choice2": "Zašeu je lukne u aržetu.", "idx": 79, "label": 0, "premise": "Dicu je cinglalu u aržetu, ka je huodu.", "question": "cause"}
-{"choice1": "Učenk je pazuaniu telefon.", "choice2": "Učenka si je zapisuala.", "idx": 80, "label": 0, "premise": "Usi u razridu sa se abrnil, de b paglial učenka.", "question": "cause"}
-{"choice1": "Abad je piču kujne.", "choice2": "Jahauc je pabužeu kujne.", "idx": 81, "label": 0, "premise": "Kujn je cabnu.", "question": "cause"}
-{"choice1": "Ukradena bižuterije sa uarnil lastnikam.", "choice2": "Zračunal sa uridnast ukradene bižuterije.", "idx": 82, "label": 0, "premise": "Ulauil sa tataue bižuterije.", "question": "effect"}
-{"choice1": "Uelik daržaulanau se je preselilu u glaunu mistu.", "choice2": "Uelik daržaulanau se je zatjeklu na druga azimle.", "idx": 83, "label": 1, "premise": "U daržau je izbruhalnu političnu nasilje.", "question": "effect"}
-{"choice1": "Parjaula se je na klinika za aduajejne.", "choice2": "Enga je napadla.", "idx": 84, "label": 1, "premise": "Baba sa aretiral.", "question": "cause"}
-{"choice1": "Najdla je izid ualitu.", "choice2": "Na ualituah je addala glas.", "idx": 85, "label": 0, "premise": "Žinska je prebrala cajtng.", "question": "effect"}
-{"choice1": "Angau parjatu je zbuolu.", "choice2": "Angau parjatu je kihnu.", "idx": 86, "label": 0, "premise": "Balan uotrak je zakašleu na parjatlna.", "question": "effect"}
-{"choice1": "Planirala sta paruka.", "choice2": "Za en cajt sta šla narazn.", "idx": 87, "label": 0, "premise": "Par se je zaruču.", "question": "effect"}
-{"choice1": "Žinska je planirala kupst stanuajne.", "choice2": "Žinska je maugla paspraut stanuajne.", "idx": 88, "label": 0, "premise": "Žinska je kontaktirala nepremičninarje.", "question": "cause"}
-{"choice1": "Abagatiu je.", "choice2": "Biu je daužan dnar.", "idx": 89, "label": 0, "premise": "Dic je zmagau na loterij.", "question": "effect"}
-{"choice1": "Is suiče je kaplau usk.", "choice2": "Usk na suič se je stardiu.", "idx": 90, "label": 0, "premise": "Paržgala sn suiče.", "question": "effect"}
-{"choice1": "Zuila sn si gližn.", "choice2": "Apjeklu me je pa frisu.", "idx": 91, "label": 1, "premise": "Dan sn prežuila na bazenu.", "question": "effect"}
-{"choice1": "Bučnu je parkirau na ulic.", "choice2": "Patiku mu je parking.", "idx": 92, "label": 1, "premise": "Dic je dubu parkirna kazn.", "question": "cause"}
-{"choice1": "Fotoliki sa je sledil.", "choice2": "Familije se i je izagibala.", "idx": 93, "label": 0, "premise": "Žinska je zaslauila.", "question": "effect"}
-{"choice1": "Dala si je preluknet uhe.", "choice2": "Dala si je nardit tatu.", "idx": 94, "label": 0, "premise": "Zjala je tla nuost ringlne.", "question": "effect"}
-{"choice1": "Šou sn u muzej.", "choice2": "Šou sn na koncert.", "idx": 95, "label": 1, "premise": "Zuanilu mi je u uhah.", "question": "cause"}
-{"choice1": "Da uratu sn bla u dilu.", "choice2": "Parčakuala sn abiske.", "idx": 96, "label": 1, "premise": "Paspraula sn pa bajt.", "question": "cause"}
-{"choice1": "Pandil sa mi adškadnina.", "choice2": "Adpauidal sa mi let.", "idx": 97, "label": 0, "premise": "Letalska družba mi je fardirbala partlaga.", "question": "effect"}
-{"choice1": "Dala sn ga papraut.", "choice2": "Hpila sn nauga.", "idx": 98, "label": 1, "premise": "Uelik bi kaštalu papraut računalnik.", "question": "effect"}
-{"choice1": "Klepetala je s parjatlca.", "choice2": "Parjatlc je rjekla, nej je sti pr gmah.", "idx": 99, "label": 1, "premise": "Baba je bla slabe ule.", "question": "effect"}
+{"premise":"Dic je adparu pipa.","choice1":"Skrit se je napauhnu z uoda.","choice2":"Iz pipe je partjekla uoda.","question":"effect","label":1,"idx":0,"changed":false}
+{"premise":"Zjala je najdla hruo\u0161\u010de u kosmi\u010dih.","choice1":"U skli\u010dka je nalila mlik.","choice2":"Zgubila je apetit.","question":"effect","label":1,"idx":1,"changed":false}
+{"premise":"\u017dinska je \u0161la u penzjun.","choice1":"Dabila je penzjun.","choice2":"Adpla\u010dala je hipoteka.","question":"effect","label":0,"idx":2,"changed":false}
+{"premise":"Tla sn bit uar\u010dna iz energije.","choice1":"Pamjetla sn pa tleh u tafrej cimru.","choice2":"Zaparla sn lu\u010d u tafrej cimru.","question":"effect","label":1,"idx":3,"changed":false}
+{"premise":"Mesu ad hamburgerje je ratalu arjau.","choice1":"Kuhar ga je zamarznu.","choice2":"Kuhar ga je spiku na \u017earu.","question":"cause","label":1,"idx":4,"changed":false}
+{"premise":"Nisn uariu u predstauitu ad k\u0161eftarje.","choice1":"Zauarnu sn negaua panudba.","choice2":"Prepri\u010deu me je, de sn kupu izdilk.","question":"effect","label":0,"idx":5,"changed":false}
+{"premise":"Adlu\u010du sn se, de m zue\u010dir dama.","choice1":"Napauedual sta neuihte.","choice2":"Parjatlni sa tli, de grim uan.","question":"cause","label":0,"idx":6,"changed":false}
+{"premise":"A\u010di sn mila ardi\u010de mpa zabuhle.","choice1":"Uekala sn.","choice2":"Smejala sn se.","question":"cause","label":0,"idx":7,"changed":false}
+{"premise":"Plamin\u010dk na sui\u010d se je ugasiu.","choice1":"Pihnu sn na taht.","choice2":"Fajerca sn deu na taht.","question":"cause","label":0,"idx":8,"changed":false}
+{"premise":"Dic je stra\u0161nu piu na \u017euru.","choice1":"Druh dan ga je balila tintara.","choice2":"Druh dan je biu smarkau.","question":"effect","label":0,"idx":9,"changed":false}
+{"premise":"Kugla je zbila kegle.","choice1":"Dic je skataliu kugla pa staz daluan.","choice2":"Dicu je kugla padla na nuoga.","question":"cause","label":0,"idx":10,"changed":false}
+{"premise":"Skupnast je zuidla za smart ad dica.","choice1":"Familje ga je zagrjebla na britafu.","choice2":"Asmartnca sa abjaul u cajtngu.","question":"cause","label":1,"idx":11,"changed":false}
+{"premise":"Ra\u010dunalnik mi je carknu.","choice1":"In\u0161talirala sn noue zuo\u010dnike.","choice2":"Zgubila sn use padatke.","question":"effect","label":1,"idx":12,"changed":false}
+{"premise":"\u017dinska je stila \u0161eht.","choice1":"U firm je tla bit par uarhu.","choice2":"Uarila je, de ninni \u0161efi nisa dilal eti\u010dnu.","question":"cause","label":1,"idx":13,"changed":false}
+{"premise":"Igrauka je ulauila \u017euga.","choice1":"Soigrauka i i je uargla.","choice2":"Nasprutnca i je tla prestri\u0161t.","question":"cause","label":0,"idx":14,"changed":false}
+{"premise":"Sadnik je udaru s kladucam.","choice1":"Sadnije je uzgnilu u luft.","choice2":"Paruta je naznanila soje adla\u010ditu.","question":"cause","label":0,"idx":15,"changed":false}
+{"premise":"Baba je \u017elut prepauidala bit na ninni zjeml.","choice1":"\u017dluta je cabnila \u017euga na ninnu dari\u0161e.","choice2":"\u017dluta i je prepe\u0161tala uart.","question":"cause","label":1,"idx":16,"changed":false}
+{"premise":"Ugrabitlni sa stil talce.","choice1":"Spreil sa dnar za adkupnina.","choice2":"U\u0161li sa z arjesta.","question":"cause","label":0,"idx":17,"changed":false}
+{"premise":"Kuhar je jemu sauzne a\u010di.","choice1":"Zmajnkalu mu je \u010debule.","choice2":"Narizau je \u010debula.","question":"cause","label":1,"idx":18,"changed":false}
+{"premise":"\u017dinska je dila parst pad marzla uoda.","choice1":"Parst si je apjekla na tousterju.","choice2":"Na parst si je dila dijamantna rinka.","question":"cause","label":0,"idx":19,"changed":false}
+{"premise":"U\u010denka je narube napisala besida.","choice1":"T\u0161ica i je papraula.","choice2":"Tr\u0161ica i je stila damu.","question":"effect","label":0,"idx":20,"changed":false}
+{"premise":"Pa napadu ize sn se pamiriu.","choice1":"Sarci mi je razbijelu.","choice2":"Glabuoku sn dihau.","question":"cause","label":1,"idx":21,"changed":false}
+{"premise":"Ruoke sn deu pad pipa.","choice1":"\u017dajfa se m je sprala z ruk.","choice2":"Uoda mi je \u0161riflna u fris.","question":"effect","label":0,"idx":22,"changed":false}
+{"premise":"Dic se je abliku u ta zahma\u0161n guant.","choice1":"Zmejnen je biu za sestank s pamimbna stranka.","choice2":"\u017djena mu je hpila noua krauata.","question":"cause","label":0,"idx":23,"changed":false}
+{"premise":"Dic je \u017einsk pauidau, de je ima rad.","choice1":"\u017dinska ga je zauarnila.","choice2":"\u017dinska mu je bla fau\u0161.","question":"effect","label":0,"idx":24,"changed":false}
+{"premise":"\u0160uferju je pu\u010dla guma.","choice1":"Prehitru je uozu.","choice2":"Pauozu je cujek.","question":"cause","label":1,"idx":25,"changed":false}
+{"premise":"Nisn uidla na platnu u kinetu.","choice1":"Par za mana je \u0161epetau.","choice2":"Pred mana je sedeu en uelk \u010dlouk.","question":"cause","label":1,"idx":26,"changed":false}
+{"premise":"\u0160ufer je par\u017egau taspridne al\u010di u autu.","choice1":"\u0160li\u0161eu je garmejne.","choice2":"Sunce je \u0161lu adzad.","question":"cause","label":1,"idx":27,"changed":false}
+{"premise":"Zjala ni tla ist zelenaue.","choice1":"Ata i je riku, nej spije mlik.","choice2":"Ata i je uzeu dol\u010de.","question":"effect","label":1,"idx":28,"changed":false}
+{"premise":"\u017dinska si je dila ruoka \u010dez usta.","choice1":"Izdihlna je.","choice2":"Kihlna je.","question":"cause","label":1,"idx":29,"changed":false}
+{"premise":"Tajnica je dila klicatlca na \u010dakajne.","choice1":"Telefon ad klicatlce je zgubu signal.","choice2":"Klicatlca je \u010dakala na linij.","question":"effect","label":1,"idx":30,"changed":false}
+{"premise":"\u017dinska je hadila na birglah.","choice1":"Abrila si je nagi.","choice2":"Zlamila si je nuoga.","question":"cause","label":1,"idx":31,"changed":false}
+{"premise":"Zaka\u0161leu sn.","choice1":"Udihnu sn dem.","choice2":"Zni\u017eeu sn glas.","question":"cause","label":0,"idx":32,"changed":false}
+{"premise":"Ura je adbila.","choice1":"Blu je ab akrugli ur.","choice2":"Zdilu se je, de se ura uli\u010de.","question":"cause","label":0,"idx":33,"changed":false}
+{"premise":"Kuharca je udarla z jajcam ab rub sklide.","choice1":"Jajc je pu\u010du.","choice2":"Jajc je zgniu.","question":"effect","label":0,"idx":34,"changed":false}
+{"premise":"Palcije je pregliala auto ad storiuca.","choice1":"Tli sa mu zuabt parznajne.","choice2":"Iskal sa ilegalne droge.","question":"cause","label":1,"idx":35,"changed":false}
+{"premise":"Par je \u0161ou za \u010dez zima na jug.","choice1":"Bla sta u penzjunu.","choice2":"Bla sta lu\u010dena.","question":"cause","label":0,"idx":36,"changed":false}
+{"premise":"Dic se je \u010dutu dau\u017enga, de gri na dagutk.","choice1":"Zauarnu je uabila ad parjatlna, de nej gri zram.","choice2":"Parjatlnu je ablubu, de u \u0161au.","question":"cause","label":1,"idx":37,"changed":false}
+{"premise":"Neuista se je ustra\u0161la pred paruka.","choice1":"Guosti na paruk sa parnjesl \u0161ejnke.","choice2":"Adpauidala je paruka.","question":"effect","label":1,"idx":38,"changed":false}
+{"premise":"Dic se je pastarau.","choice1":"Lasi sa mu ratal siui.","choice2":"Predau je soje prema\u017eejne.","question":"effect","label":0,"idx":39,"changed":false}
+{"premise":"Parjatlna sta se adla\u010dila, de si usta patalela hamburger.","choice1":"Hamburger sta prerizala na pau.","choice2":"Zram hamburgerje sta nara\u010dila krempir.","question":"effect","label":0,"idx":40,"changed":false}
+{"premise":"S fla\u0161e pja\u010de z mehur\u010dki sn aduila zama\u0161k.","choice1":"Pja\u010de je za\u0161mila.","choice2":"Pja\u010de je spu\u0161ala uan.","question":"effect","label":0,"idx":41,"changed":false}
+{"premise":"Tauar\u0161 je dubu u\u010dence na pika.","choice1":"Aba u\u010dence sta dabila adli\u010dne acine.","choice2":"Nehni adgouori par nalug sa bli isti.","question":"cause","label":1,"idx":42,"changed":false}
+{"premise":"U\u010dencu se je mdilu, de bi par\u0161u da cajta u \u0161ula.","choice1":"Naluga je pustu dama.","choice2":"U \u0161ula je parnisu ju\u017ena.","question":"effect","label":0,"idx":43,"changed":false}
+{"premise":"Nouinar je napisau biografija ad \u017eiulejne ad filantropa.","choice1":"Nouinar je te\u017eku interujuau filantropa.","choice2":"Nouinarja je zanimalu dilu ad filantropa.","question":"cause","label":1,"idx":44,"changed":false}
+{"premise":"Dic se je pastau kontra cerkuini ablast.","choice1":"Cirku je \u0161ejnkau saude.","choice2":"Izub\u010dl sa ga s cirkue.","question":"effect","label":1,"idx":45,"changed":false}
+{"premise":"\u017dinsk sa padl lasi na fris.","choice1":"Lasi si je spila s \u0161lisa.","choice2":"Na\u0161amponirala si je lasi.","question":"effect","label":0,"idx":46,"changed":false}
+{"premise":"Rinka se m je zatknila na parstu.","choice1":"Parst mi je atiku.","choice2":"Zlamila sn si nuoht.","question":"cause","label":0,"idx":47,"changed":false}
+{"premise":"Pategnila sn lastika.","choice1":"Zletila je \u010des cimr.","choice2":"Stegnila se je.","question":"effect","label":1,"idx":48,"changed":false}
+{"premise":"U mukr cement sn pahnu ruoka.","choice1":"Adtis muoje ruoke se je pasu\u0161u u cementu.","choice2":"U cementu sa ratale razpuke.","question":"effect","label":0,"idx":49,"changed":false}
+{"premise":"Na ku\u017e sa mi ratal fljeki.","choice1":"Na dari\u0161u sn aplazu ab uctauc.","choice2":"Z dari\u0161e sn adstranu uctauc.","question":"cause","label":0,"idx":50,"changed":false}
+{"premise":"Patjekla mi je nara\u010dnina na reuije.","choice1":"Noua \u0161tuilka sn urgla stran.","choice2":"Jejnela sn dabiuat noue \u0161tuilke.","question":"effect","label":1,"idx":51,"changed":false}
+{"premise":"Detektiu je nejdu anomalije u parmiru.","choice1":"Da kuonca je naridu suoja teorije.","choice2":"Suoja teorije je pre\u010dartau.","question":"effect","label":1,"idx":52,"changed":false}
+{"premise":"Puba je razkajfalu.","choice1":"Brat mu je uziu igra\u010de.","choice2":"Z bratam si je pataleu igra\u010de.","question":"cause","label":0,"idx":53,"changed":false}
+{"premise":"Uotrak se je nauadu brat.","choice1":"Za\u010diu je huost u \u0161ula.","choice2":"Preskuo\u010du je razred u \u0161ul.","question":"cause","label":0,"idx":54,"changed":false}
+{"premise":"Pub je preskuo\u010du ue\u010dirje.","choice1":"Mama mu je skuhala angaua tabuli hrana.","choice2":"Uelik je snidu za ju\u017ena.","question":"cause","label":1,"idx":55,"changed":false}
+{"premise":"\u017dinska je parjatlca zasula s pahualami.","choice1":"Parjatlca je tla pra\u0161et za usluga.","choice2":"Na \u017eiuce i je \u0161lu parta\u017euajne ad parjatlce.","question":"cause","label":0,"idx":56,"changed":false}
+{"premise":"U ar\u017eetu ad hla\u010d ni blu klu\u010de.","choice1":"U ar\u017eetu je bla lukne.","choice2":"Hla\u010de sa ble naue.","question":"cause","label":0,"idx":57,"changed":false}
+{"premise":"Dic je padu skap.","choice1":"Zakinkau je.","choice2":"Adlaufau je maraton.","question":"cause","label":1,"idx":58,"changed":false}
+{"premise":"Dic je zgubu tekma.","choice1":"Tekma sa sabotiral.","choice2":"Prestra\u0161u je sotekmauauce.","question":"cause","label":0,"idx":59,"changed":false}
+{"premise":"Mama je paklicala re\u0161iuca.","choice1":"Nin sin je zgubu ma\u010dka.","choice2":"Nin sin je padu s pusle.","question":"cause","label":1,"idx":60,"changed":false}
+{"premise":"\u0160ufer je partisnu na \u017elajf.","choice1":"Na cist se je pajaula sarna.","choice2":"Autoradjo se je ugasiu.","question":"cause","label":0,"idx":61,"changed":false}
+{"premise":"Klu\u010daunca se je adklenila.","choice1":"Abarnu sn klu\u010d u klu\u010daunc.","choice2":"Patuplau sn klu\u010d.","question":"cause","label":0,"idx":62,"changed":false}
+{"premise":"Guor sn dila gumnatne rakauice.","choice1":"Bla sn na temu, de si apjerem ruoke.","choice2":"Bla sn na temu, de spucam kopalnica.","question":"cause","label":1,"idx":63,"changed":false}
+{"premise":"\u017diualska uarsta je bla agru\u017eena.","choice1":"Uni\u010dl sa nem \u017eiulejnski pruostar.","choice2":"Ninni pleniuci sa izumarl.","question":"cause","label":0,"idx":64,"changed":false}
+{"premise":"Dic je parajtau, de \u017einska darga\u010d zglia.","choice1":"\u017dinska si je astrigla lasi.","choice2":"\u017dinska je nasila bruzletna.","question":"cause","label":0,"idx":65,"changed":false}
+{"premise":"U\u010denka je pazabila narjest naluga.","choice1":"Zmislna si je izgouor za tr\u0161ica.","choice2":"Tr\u0161ica i je upisala u naslidn razred.","question":"effect","label":0,"idx":66,"changed":false}
+{"premise":"Pas je zalajeu.","choice1":"Ma\u010dk je pale\u017eauau na kau\u010du.","choice2":"Par uratih je blu \u0161li\u0161et tarkajne.","question":"cause","label":1,"idx":67,"changed":false}
+{"premise":"Napauidal sa na\u010drte, de bi namest lokalnga parka zgradil nakupaualni centr.","choice1":"Okoljeuarstueniki sa za\u010dil peticije.","choice2":"Okoljeuarstueniki sa pasnil dokumentarc.","question":"effect","label":0,"idx":68,"changed":false}
+{"premise":"Par je biu uesiu, de se uidta.","choice1":"Palbila sta se.","choice2":"Pa\u010diuala sta.","question":"effect","label":0,"idx":69,"changed":false}
+{"premise":"\u017dinska je dicu rjekla, nej gri.","choice1":"U\u017ealu i je.","choice2":"Zahualu se i je.","question":"cause","label":0,"idx":70,"changed":false}
+{"premise":"Ueje je parstala u rik.","choice1":"Ueje je plauala daluan.","choice2":"Tuk ad rike je ratau bel ma\u010dan.","question":"effect","label":0,"idx":71,"changed":false}
+{"premise":"Tauar\u0161 je dau u\u010dencam dama\u010de naluga.","choice1":"U\u010denci sa si pa\u0161ilal ciglce.","choice2":"U\u010denci sa zastukal.","question":"effect","label":1,"idx":72,"changed":false}
+{"premise":"Litni cajti sa \u0161li s palitje u jesin.","choice1":"Aldi sa zapstil damaue.","choice2":"Listi sa adpadl z driuje.","question":"effect","label":1,"idx":73,"changed":false}
+{"premise":"Politika sa absadil za galfije.","choice1":"Jemu je uolilna kampajne, de b ga \u0161e ejnkat zualil.","choice2":"Snil sa ga s pala\u017eaje.","question":"effect","label":1,"idx":74,"changed":false}
+{"premise":"Pahnu sn uz.","choice1":"Ar\u010di sa padle uan z uza.","choice2":"Kalisa ad uza sa se zauartila naprej.","question":"effect","label":1,"idx":75,"changed":false}
+{"premise":"Lobisti sa prepri\u010del zakonodajauce, de sa padparl asnutk zakuna.","choice1":"Predsednik je dau ueto na asnutk zakuna.","choice2":"Zakonadajauci sa spreil asnutk zakuna.","question":"effect","label":1,"idx":76,"changed":false}
+{"premise":"Muoja marejna ni bla paspraulena.","choice1":"Sprau sn je u rid.","choice2":"Akrasiu sn je.","question":"effect","label":0,"idx":77,"changed":false}
+{"premise":"Kasnu sn bla pakuonc.","choice1":"Tista nu\u010d sn u \u017eiu sajnela.","choice2":"Zjutri sn bla zmatrana.","question":"effect","label":1,"idx":78,"changed":false}
+{"premise":"Dicu je cinglalu u ar\u017eetu, ka je huodu.","choice1":"Ar\u017eet je jemu pauhn drabi\u017ee.","choice2":"Za\u0161eu je lukne u ar\u017eetu.","question":"cause","label":0,"idx":79,"changed":false}
+{"premise":"Usi u razridu sa se abrnil, de b paglial u\u010denka.","choice1":"U\u010denk je pazuaniu telefon.","choice2":"U\u010denka si je zapisuala.","question":"cause","label":0,"idx":80,"changed":false}
+{"premise":"Kujn je cabnu.","choice1":"Abad je pi\u010du kujne.","choice2":"Jahauc je pabu\u017eeu kujne.","question":"cause","label":0,"idx":81,"changed":false}
+{"premise":"Ulauil sa tataue bi\u017euterije.","choice1":"Ukradena bi\u017euterije sa uarnil lastnikam.","choice2":"Zra\u010dunal sa uridnast ukradene bi\u017euterije.","question":"effect","label":0,"idx":82,"changed":false}
+{"premise":"U dar\u017eau je izbruhalnu politi\u010dnu nasilje.","choice1":"Uelik dar\u017eaulanau se je preselilu u glaunu mistu.","choice2":"Uelik dar\u017eaulanau se je zatjeklu na druga azimle.","question":"effect","label":1,"idx":83,"changed":false}
+{"premise":"Baba sa aretiral.","choice1":"Parjaula se je na klinika za aduajejne.","choice2":"Enga je napadla.","question":"cause","label":1,"idx":84,"changed":false}
+{"premise":"\u017dinska je prebrala cajtng.","choice1":"Najdla je izid ualitu.","choice2":"Na ualituah je addala glas.","question":"effect","label":0,"idx":85,"changed":false}
+{"premise":"Balan uotrak je zaka\u0161leu na parjatlna.","choice1":"Angau parjatu je zbuolu.","choice2":"Angau parjatu je kihnu.","question":"effect","label":0,"idx":86,"changed":false}
+{"premise":"Par se je zaru\u010du.","choice1":"Planirala sta paruka.","choice2":"Za en cajt sta \u0161la narazn.","question":"effect","label":0,"idx":87,"changed":false}
+{"premise":"\u017dinska je kontaktirala nepremi\u010dninarje.","choice1":"\u017dinska je planirala kupst stanuajne.","choice2":"\u017dinska je maugla paspraut stanuajne.","question":"cause","label":0,"idx":88,"changed":false}
+{"premise":"Dic je zmagau na loterij.","choice1":"Abagatiu je.","choice2":"Biu je dau\u017ean dnar.","question":"effect","label":0,"idx":89,"changed":false}
+{"premise":"Par\u017egala sn sui\u010de.","choice1":"Is sui\u010de je kaplau usk.","choice2":"Usk na sui\u010d se je stardiu.","question":"effect","label":0,"idx":90,"changed":false}
+{"premise":"Dan sn pre\u017euila na bazenu.","choice1":"Zuila sn si gli\u017en.","choice2":"Apjeklu me je pa frisu.","question":"effect","label":1,"idx":91,"changed":false}
+{"premise":"Dic je dubu parkirna kazn.","choice1":"Bu\u010dnu je parkirau na ulic.","choice2":"Patiku mu je parking.","question":"cause","label":1,"idx":92,"changed":false}
+{"premise":"\u017dinska je zaslauila.","choice1":"Fotoliki sa je sledil.","choice2":"Familije se i je izagibala.","question":"effect","label":0,"idx":93,"changed":false}
+{"premise":"Zjala je tla nuost ringlne.","choice1":"Dala si je preluknet uhe.","choice2":"Dala si je nardit tatu.","question":"effect","label":0,"idx":94,"changed":false}
+{"premise":"Zuanilu mi je u uhah.","choice1":"\u0160ou sn u muzej.","choice2":"\u0160ou sn na koncert.","question":"cause","label":1,"idx":95,"changed":false}
+{"premise":"Paspraula sn pa bajt.","choice1":"Da uratu sn bla u dilu.","choice2":"Par\u010dakuala sn abiske.","question":"cause","label":1,"idx":96,"changed":false}
+{"premise":"Letalska dru\u017eba mi je fardirbala partlaga.","choice1":"Pandil sa mi ad\u0161kadnina.","choice2":"Adpauidal sa mi let.","question":"effect","label":0,"idx":97,"changed":false}
+{"premise":"Uelik bi ka\u0161talu papraut ra\u010dunalnik.","choice1":"Dala sn ga papraut.","choice2":"Hpila sn nauga.","question":"effect","label":1,"idx":98,"changed":false}
+{"premise":"Baba je bla slabe ule.","choice1":"Klepetala je s parjatlca.","choice2":"Parjatlc je rjekla, nej je sti pr gmah.","question":"effect","label":1,"idx":99,"changed":false}
